@@ -1,4 +1,4 @@
-# Saṁyutta Nikāya 56.2 -  Dhammacakkappavattana
+# Dhammacakkappavattana - SN 56.2
 
 ## Section 1
 

@@ -1,4 +1,4 @@
-# Sutta Nipāta 1.8 Mettasutta
+# Mettasutta - Sn 1.8
 
 Karaṇīyamatthakusalena, yan-taṁ santaṁ padaṁ abhisamecca;   
 Sakko ujū ca suhujū ca, sūvaco c'assa mudu anatimānī.    

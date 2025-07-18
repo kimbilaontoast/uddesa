@@ -1,6 +1,0 @@
----
-title: Uddesa
-author: Bhante Kimbila 
-rights: Creative Commons Zero (CC0)
-language: en-AU
-...
