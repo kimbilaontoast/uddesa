@@ -21,6 +21,7 @@ hr
  border: 0;
  border-top: 1px solid #eee;
 }
+
 /*suppress numbering in TOC to match the default pandoc styling*/
 ol.toc li { list-style-type: none; margin: 0; padding: 0; }
 
