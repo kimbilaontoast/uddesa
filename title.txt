@@ -1,0 +1,7 @@
+---
+title: Uddesa
+subtitle: Recitations in Dhammavinaya
+author: Bhante Kimbila 
+rights:  Creative Commons Zero - CC0
+language: en-AU
+...
