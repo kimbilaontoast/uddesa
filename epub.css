@@ -25,3 +25,28 @@ hr
 /*suppress numbering in TOC to match the default pandoc styling*/
 ol.toc li { list-style-type: none; margin: 0; padding: 0; }
 
+/* embed EBGaramond font */
+@font-face {
+	font-family: "EBGaramond";
+	font-style: bold;
+	font-weight: normal;
+	src:/fonts/EBGaramond-Bold.tff;
+}
+@font-face {
+	font-family: "EBGaramond";
+	font-style: bolditallic;
+	font-weight: normal;
+	src:/fonts/EBGaramond-BoldItallic.tff;
+}
+@font-face {
+	font-family: "EBGaramond";
+	font-style: italic;
+	font-weight: normal;
+	src:/fonts/EBGaramond-Itallic.tff;
+}
+@font-face {
+	font-family: "EBGaramond";
+	font-style: regular;
+	font-weight: normal;
+	src:/fonts/EBGaramond-Regular.tff;
+}
