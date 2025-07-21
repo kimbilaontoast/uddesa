@@ -13,21 +13,23 @@ pandoc -o ebook.epub -t epub3 --toc --toc-depth=3 --epub-cover-image=cover.png t
 ## pandoc options
 
 ``` -t epub3 ``` 
-This tells pandoc to output the file as an epub3 (the latest version on epub)
+This tells pandoc to output the file as an epub3
 
 ``` --toc ---toc-depth=3 ``` 
-This tells pandoc to generate a table of contents (toc) at a depth of 3 headers - meaning headers H1, H2 and H3 will show in the toc. Pandoc will follow header hierarchy used in your markdown files to determine the toc, as well as book chapter and chapter subsection structure.  
+This generates a table of contents (toc) at a depth of 3 headers - meaning headers H1, H2 and H3 will show in the toc (you can set this to whatever depth you want).
 
 ``` --epub-cover-image=cover.png ```
-This embeds the cover image. 
+This embeds a cover image. 
 
-``` --css=epb.css ```
-This tells pandoc where to find your css file.
+``` --css=epub.css ```
+This includes a css file.
 
 ``` --epub-metadata=metadata.xml ```
-This tells pandoc where to find the metadata file. 
+This includes the metadata file. 
 
-Finally, you include the chapters of the book - each chapter is organised as a seperate markdown file in seperate chapter directories, with file headers denoting subsections.  
+Finally, you include the chapters of the book - each chapter is organised as a seperate markdown file in seperate chapter directories.  
+
+Pandoc will follow header hierarchy used in your markdown files to determine the toc structure, as well as book chapter and chapter subsection structure.  
 
 ## additional fun
 
