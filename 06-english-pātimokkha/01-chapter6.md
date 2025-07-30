@@ -47,12 +47,9 @@ attainment, except through overestimation, he incurs a pārājika.
 The four pārājika rules have been recited. If a bhikkhu breaches any of
 them, he is no longer a bhikkhu.
 
-I ask the venerables: are you pure in this?
-
-A second time I ask: are you pure in this?
-
-A third time I ask: are you pure in this?
-
+I ask the venerables: are you pure in this?  
+A second time I ask: are you pure in this?  
+A third time I ask: are you pure in this?   
 You are silent, and so I take it you are pure.
 
 The pārājikas are finished.
@@ -117,12 +114,9 @@ If there are fewer than twenty bhikkhus in the saṅgha, that bhikkhu is
 not rehabilitated and those bhikkhus are at fault. This is the proper
 procedure.
 
-I ask the venerables: are you pure in this?
-
-A second time I ask: are you pure in this?
-
-A third time I ask: are you pure in this?
-
+I ask the venerables: are you pure in this?  
+A second time I ask: are you pure in this?  
+A third time I ask: are you pure in this?   
 You are silent, and so I take it you are pure.
 
 The saṅghādisesas are finished.
@@ -143,12 +137,9 @@ dealt with accordingly.
 
 The two aniyata rules have been recited.
 
-I ask the venerables: are you pure in this?
-
-A second time I ask: are you pure in this?
-
-A third time I ask: are you pure in this?
-
+I ask the venerables: are you pure in this?  
+A second time I ask: are you pure in this?  
+A third time I ask: are you pure in this?   
 You are silent, and so I take it you are pure.
 
 The aniyatas are finished.
@@ -290,12 +281,9 @@ The third chapter on bowls is finished.
 
 The thirty nissaggiya pācittiya rules have been recited.
 
-I ask the venerables: are you pure in this?
-
-A second time I ask: are you pure in this?
-
-A third time I ask: are you pure in this?
-
+I ask the venerables: are you pure in this?  
+A second time I ask: are you pure in this?  
+A third time I ask: are you pure in this?   
 You are silent, and so I take it you are pure.
 
 The nissaggiya pācittiyas are finished.
@@ -641,12 +629,9 @@ The ninth chapter on valuables is finished.
 
 The ninety-two pācittiya rules have been recited.
 
-I ask the venerables: are you pure in this?
-
-A second time I ask: are you pure in this?
-
-A third time I ask: are you pure in this?
-
+I ask the venerables: are you pure in this?  
+A second time I ask: are you pure in this?  
+A third time I ask: are you pure in this?   
 You are silent, and so I take it you are pure.
 
 The pācittiyas are finished.
@@ -672,12 +657,9 @@ dwelling, he should confess it.
 
 The four pāṭidesanīya rules have been recited.
 
-I ask the venerables: are you pure in this?
-
-A second time I ask: are you pure in this?
-
-A third time I ask: are you pure in this?
-
+I ask the venerables: are you pure in this?  
+A second time I ask: are you pure in this?  
+A third time I ask: are you pure in this?   
 You are silent, and so I take it you are pure.
 
 The pāṭidesanīyas are finished.
@@ -794,12 +776,9 @@ The three rules on various matters are finished.
 
 The sekhiya rules have been recited.
 
-I ask the venerables: are you pure in this?
-
-A second time I ask: are you pure in this?
-
-A third time I ask: are you pure in this?
-
+I ask the venerables: are you pure in this?  
+A second time I ask: are you pure in this?  
+A third time I ask: are you pure in this?   
 You are silent, and so I take it you are pure.
 
 The sekhiyas are finished.
@@ -825,35 +804,24 @@ recitation.
 
 The seven principles for settling vinaya issues have been recited.
 
-I ask the venerables: are you pure in this?
-
-A second time I ask: are you pure in this?
-
-A third time I ask: are you pure in this?
-
+I ask the venerables: are you pure in this?  
+A second time I ask: are you pure in this?  
+A third time I ask: are you pure in this?   
 You are silent, and so I take it you are pure.
-
-## Outro
 
 The seven principles for settling vinaya issues are finished.
 
-The introduction has been recited;
+## Outro
 
-The four pārājika rules have been recited;
-
-The thirteen saṅghādisesa rules have been recited;
-
-The two aniyata rules have been recited;
-
-The thirty nissaggiya pācittiya rules have been recited;
-
-The ninety-two pācittiya rules have been recited;
-
-The four pāṭidesanīya rules have been recited;
-
-The sekhiya rules have been recited;
-
-The seven principles for settling vinaya issues have been recited.
+The introduction has been recited;  
+The four pārājika rules have been recited;  
+The thirteen saṅghādisesa rules have been recited;  
+The two aniyata rules have been recited;  
+The thirty nissaggiya pācittiya rules have been recited;  
+The ninety-two pācittiya rules have been recited;  
+The four pāṭidesanīya rules have been recited;  
+The sekhiya rules have been recited;  
+The seven principles for settling vinaya issues have been recited.  
 
 This is how the pātimokkha laid down by the Buddha should be recited
 every fortnight.
