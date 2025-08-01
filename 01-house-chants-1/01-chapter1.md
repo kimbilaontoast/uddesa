@@ -35,29 +35,29 @@ Sabb’antarāyā ca vināsamentu.
 
 ## Namo-kāra-atthaka 
 
-Namo arahato sammā-
-Sambuddhassa mahesino;
+Namo arahato sammā-  
+Sambuddhassa mahesino;  
 
-Namo uttama-dhammassa,
-Svākkhātass’eva ten’idha.
+Namo uttama-dhammassa,  
+Svākkhātass’eva ten’idha.  
 
-Namo mahā-saṅghassāpi,
-Visuddha-sīla-diṭṭhino;
+Namo mahā-saṅghassāpi,  
+Visuddha-sīla-diṭṭhino;  
 
-Namo omāty-āraddhassa,
-Ratanattayassa sādhukaṃ.
+Namo omāty-āraddhassa,  
+Ratanattayassa sādhukaṃ.  
 
-Namo omakātītassa,
-Tassa vatthuttayassa-pi;
+Namo omakātītassa,  
+Tassa vatthuttayassa-pi;  
 
-Namo-kārappabhāvena,
-Vigacchantu upaddavā.
+Namo-kārappabhāvena,  
+Vigacchantu upaddavā.  
 
-Namo-kārānubhāvena
-Suvatthi hotu sabbadā;
+Namo-kārānubhāvena  
+Suvatthi hotu sabbadā;  
 
-Namo-kārassa tejena,
-Vidhimhi homi, tejavā.
+Namo-kārassa tejena,  
+Vidhimhi homi, tejavā.  
 
 ## Maṅgala-sutta 
 
