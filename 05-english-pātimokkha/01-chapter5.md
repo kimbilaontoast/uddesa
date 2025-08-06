@@ -146,7 +146,7 @@ The aniyatas are finished.
 
 ## Nissaggiya Pācittiya
 
-### 1-10
+**1-10**
 
 Now the thirty nissaggiya pācittiya rules come up for recitation.
 
@@ -196,7 +196,7 @@ pācittiya.
 
 The first chapter on robes is finished.
 
-### 11-20
+**11-20**
 
 **11.** If a bhikkhu makes a blanket containing silk, or has one made,
 he incurs a nissaggiya pācittiya.
@@ -235,7 +235,7 @@ nissaggiya pācittiya.
 
 The second chapter on silk is finished.
 
-### 21-30
+**21-30**
 
 **21.** If a bhikkhu owns a bowl for more than ten days that is neither
 determined nor stored through vikappana, he incurs a nissaggiya
@@ -290,7 +290,7 @@ The nissaggiya pācittiyas are finished.
 
 ## Pācittiya
 
-### 1-10
+**1-10**
 
 Now the ninety-two pācittiya rules come up for recitation.
 
@@ -324,7 +324,7 @@ pācittiya.
 
 The first chapter on lying is finished.
 
-### 11-20
+**11-20**
 
 **11.** Intentionally destroying vegetation, or having it destroyed, is
 a pācittiya.
@@ -361,7 +361,7 @@ he knows it contains living beings that will die, he incurs a pācittiya.
 
 The second chapter on vegetation is finished.
 
-### 21-30
+**21-30**
 
 **21.** If a bhikkhu gives the ovāda to the bhikkhunīs, except with the
 Saṅgha's agreement, he incurs a pācittiya.
@@ -397,7 +397,7 @@ bhikkhunī, he incurs a pācittiya.
 
 The third chapter on the ovāda is finished.
 
-### 31-40
+**31-40**
 
 **31.** If a bhikkhu who is able to get food elsewhere eats more than
 one meal consecutively at a public alms centre, he incurs a pācittiya.
@@ -432,7 +432,7 @@ he incurs a pācittiya.
 
 The fourth chapter on eating is finished.
 
-### 41-50
+**41-50**
 
 **41.** If a bhikkhu gives food directly to a non-Buddhist mendicant, he
 incurs a pācittiya.
@@ -468,7 +468,7 @@ in action, he incurs a pācittiya.
 
 The fifth chapter on non-Buddhist mendicants is finished.
 
-### 51-60
+**51-60**
 
 **51.** Consuming alcohol is a pācittiya.
 
@@ -501,7 +501,7 @@ needle-case, or belt, even if just for fun, he incurs a pācittiya.
 
 The sixth chapter on consuming alcohol is finished.
 
-### 61-70
+**61-70**
 
 **61.** If a bhikkhu intentionally causes the death of a living being,
 he incurs a pācittiya.
@@ -539,7 +539,7 @@ holding such a view, he incurs a pācittiya.
 
 The seventh chapter on "containing living beings" is finished.
 
-### 71-82
+**71-82**
 
 **71.** If a bhikkhu, when rightly corrected by a bhikkhu about a breach
 of a rule laid down by the Buddha, uses a ploy as an excuse for not
@@ -584,7 +584,7 @@ intended for the Saṅgha, he incurs a pācittiya.
 
 The eighth chapter on "rightly" is finished.
 
-### 83-92
+**83-92**
 
 **83.** If a bhikkhu, without being announced, enters the bedroom of a
 consecrated king when both the king and the queen are present, he incurs
@@ -666,7 +666,7 @@ The pāṭidesanīyas are finished.
 
 ## Sekhiya
 
-### 1-26
+**1-26**
 
 Now the sekhiya rules come up for recitation.
 
@@ -694,7 +694,7 @@ when walking or sitting in public.
 
 The twenty-six rules on what is suitable are finished.
 
-### 27-56
+**27-56**
 
 **27.** I will train to receive almsfood respectfully.
 
@@ -761,7 +761,7 @@ disrespectful, except if they have an appropriate reason. **\[+58-72\]**
 
 The sixteen rules on teaching the Dhamma are finished.
 
-### 73-75
+**73-75**
 
 **73.** I will train not to defecate or urinate while standing, without
 an appropriate reason.
