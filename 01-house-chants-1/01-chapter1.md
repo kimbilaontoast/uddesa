@@ -32,7 +32,6 @@ Buddhānubuddhaṃ sama-sīla-diṭṭhiṃ;
 Tan-tejasā te jaya-siddhi hotu,  
 Sabb’antarāyā ca vināsamentu.  
 
-
 ## Namo-kāra-atthaka 
 
 Namo arahato sammā-  
