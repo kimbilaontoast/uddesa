@@ -1,4 +1,4 @@
-# English Pātimokkha - Brāhmali translation - May 2025
+# English Pātimokkha - May 2025
 
 ## Introduction 
 
@@ -54,7 +54,7 @@ You are silent, and so I take it you are pure.
 
 The pārājikas are finished.
 
-## Saṅghādisesa 
+## Sanghādisesa 
 
 Now the thirteen saṅghādisesa rules come up for recitation.
 
@@ -636,7 +636,7 @@ You are silent, and so I take it you are pure.
 
 The pācittiyas are finished.
 
-## Pāṭidesanīya 
+## Pātidesanīya 
 
 Now the four pāṭidesanīya rules come up for recitation.
 

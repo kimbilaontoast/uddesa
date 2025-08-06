@@ -58,7 +58,7 @@ Suvatthi hotu sabbadā;
 Namo-kārassa tejena,  
 Vidhimhi homi, tejavā.  
 
-## Maṅgala-sutta 
+## Mangala-sutta 
 
 Asevanā ca bālānaṃ,  
 Paṇḍitānañ ca sevanā;  
@@ -156,7 +156,7 @@ Nibbanti dhīrā yathā’yam padīpo;
 Idam pi Saṅghe ratanaṃ paṇītaṃ,  
 Etena saccena suvatthi hotu.  
 
-## Karaṇīya-metta-sutta
+## Karanīya-metta-sutta
 
 Karaṇīya-mattha-kusalena,  
 Yan-taṃ santaṃ padaṃ abhisamecca;  
@@ -208,7 +208,7 @@ Sīlavā dassanena sampanno;
 Kāmesu vineyya gedhaṃ,  
 Na hi jātu gabbha-seyyaṃ puna-r-etī’ti.  
 
-## Khandha-parittaṃ 
+## Khandha-parittam
 
 Virūpakkhehi me mettaṃ,  
 Mettaṃ Erāpathehi me;  
@@ -239,7 +239,7 @@ Paṭikkamantu bhūtāni.
 So’haṃ namo Bhagavato,  
 Namo sattannaṃ sammā-sambuddhānaṃ.  
 
-## Buddha Dhamma Saṅgha-guṇā 
+## Buddha Dhamma Sangha-gunā 
 
 Iti pi so Bhagavā arahaṃ sammā-sambuddho,  
 Vijjā-caraṇa-sampanno, sugato loka-vidū,  
@@ -260,7 +260,7 @@ Esa Bhagavato sāvaka-saṅgho,
 Āhuneyyo pāhuneyyo dakkhiṇeyyo añjali-karaṇīyo  
 Anuttaraṃ puññakkhettaṃ lokassā’ti.  
 
-## N'atthi me saraṇaṃ aññaṃ, 
+## N'atthi me saranam aññam
 
 Natthi me saraṇaṃ aññaṃ,  
 Buddho me saraṇaṃ varaṃ  

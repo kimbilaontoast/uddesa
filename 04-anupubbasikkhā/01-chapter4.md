@@ -11,7 +11,7 @@ He realizes with his own insight this world---with its gods, Māras, and divinit
 So dhammaṁ deseti ādikalyāṇaṁ majjhekalyāṇaṁ pariyosānakalyāṇaṁ sātthaṁ sabyañjanaṁ; kevalaparipuṇṇaṁ parisuddhaṁ brahmacariyaṁ pakāseti.   
 He teaches the Dhamma that is good in the beginning, good in the middle, and good in the end, with the right meaning and right phrasing, and he reveals a perfectly complete and pure spiritual life.  
 
-## Dhammaṁ suṇāti -- MN 125
+## Dhammam sunāti -- MN 125
 
 Taṁ dhammaṁ suṇāti gahapati vā gahapatiputto vā aññatarasmiṁ vā kule paccājāto.   
 A householder hears that teaching, or a householder's child, or someone reborn in a good family.  
@@ -42,9 +42,9 @@ And what are the things that make one an ascetic and a brahmin?
 'Hirottappena samannāgatā bhavissāmā'ti evañhi vo, bhikkhave, sikkhitabbaṁ.   
 You should train like this: 'We will have conscience and prudence.'  
 
-## Sila 
+## Sīla 
 
-### Sīla (1) -- MN 53
+### Sīla (1) - MN 53
 
 Kathañca, mahānāma, ariyasāvako sīlasampanno hoti?   
 And how is a noble disciple accomplished in ethics?  
@@ -55,7 +55,7 @@ It's when a noble disciple is ethical, restrained in the monastic code, conducti
 Evaṁ kho, ariyasāvako sīlasampanno hoti.   
 That's how a noble disciple is ethical.  
 
-### Sīla (2) -- MN 39
+### Sīla (2) - MN 39
 
 'Parisuddho no kāyasamācāro bhavissati uttāno vivaṭo na ca chiddavā saṁvuto ca.   
 You should train like this: 'Our bodily behavior will be pure, clear, open, neither inconsistent nor secretive.  
@@ -63,7 +63,7 @@ You should train like this: 'Our bodily behavior will be pure, clear, open, neit
 Tāya ca pana parisuddhakāyasamācāratāya nevattānukkaṁsessāma na paraṁ vambhessāmā'ti evañhi vo, bhikkhave, sikkhitabbaṁ.   
 And we won't glorify ourselves or put others down on account of our pure bodily behavior.'  
 
-### Sīla (3) -- AN 10.176 / MN 27
+### Sīla (3) - AN 10.176 / MN 27
 
 Tividhaṁ kāyena soceyyaṁ hoti; catubbidhaṁ vācāya soceyyaṁ hoti; tividhaṁ manasā soceyyaṁ hoti.   
 Purity is threefold by way of body, fourfold by way of speech, and threefold by way of mind.  
@@ -116,12 +116,12 @@ These are the ten ways of doing skillful deeds.
 So iminā ariyena sīlakkhandhena samannāgato ajjhattaṁ anavajjasukhaṁ paṭisaṁvedeti.   
 When they follow this noble virtue and contentment, they experience within themselves a delightful bliss, the joy of being blameless.
 
-## Santuṭṭhi -- MN 27
+## Santutthi - MN 27
 
 So santuṭṭho hoti kāyaparihārikena cīvarena kucchiparihārikena piṇḍapātena. So yena yeneva pakkamati samādāyeva pakkamati. They become content with patched robes to protect their body and with almsfood to maintain their stomach; and wherever they go, they travel taking only these with them. Seyyathāpi nāma pakkhī sakuṇo yena yeneva ḍeti sapattabhārova ḍeti;   
 Just as a bird, wherever it goes, flies with its wings as its only burden; evameva bhikkhu santuṭṭho hoti kāyaparihārikena cīvarena kucchiparihārikena piṇḍapātena. So yena yeneva pakkamati samādāyeva pakkamati. So too they become content with patched robes to protect this body and with almsfood to maintain your stomach; and wherever they go, they travel taking only these with them.  
 
-## Indriyasaṁvara -- MN 27
+## Indriyasamvara - MN 27
 
 So cakkhunā rūpaṁ disvā na nimittaggāhī hoti nānubyañjanaggāhī.   
 When they see an object, they do not let themselves get sucked in by any characteristics or features that generate defilements.  
@@ -208,7 +208,7 @@ when walking, standing, sitting, sleeping, being awake, talking, and keeping sil
 So vivittaṁ senāsanaṁ bhajati araññaṁ rukkhamūlaṁ pabbataṁ kandaraṁ giriguhaṁ susānaṁ vanapatthaṁ abbhokāsaṁ palālapuñjaṁ.   
 They frequent a secluded lodging---a wilderness, the root of a tree, a hill, a ravine, a mountain cave, a charnel ground, a forest, the open air, a heap of straw.  
 
-## Nivāraṇa -- MN 27
+## Nivārana -- MN 27
 
 So pacchābhattaṁ piṇḍapātapaṭikkanto nisīdati pallaṅkaṁ ābhujitvā, ujuṁ kāyaṁ paṇidhāya, parimukhaṁ satiṁ upaṭṭhapetvā.   
 After the meal, they return from almsround, sit down cross-legged, set their body straight, and establish mindfulness as a priority.   
@@ -247,7 +247,7 @@ Having abandoned pleasure and pain (all vedanā from the five senses), and with 
 
 ## Tevijjā -- MN 39
 
-### Pubbenivāsānussatiñāṇai
+### Pubbenivāsānussatiñānai
 
 So evaṁ samāhite citte parisuddhe pariyodāte anangaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte pubbenivāsānussatiñāṇāya cittaṁ abhininnāmeti.   
 When his concentrated mind is thus purified, bright, unblemished, rid of imperfection, malleable, wieldy, steady, and attained to imperturbability, he directs it to knowledge of the recollection of past lives.  
@@ -261,7 +261,7 @@ He recollects his manifold past lives, that is -- one birth, two births, three b
 Iti sākāraṁ sauddesaṁ anekavihitaṁ pubbenivāsaṁ anussarati.   
 Thus with their aspects and particulars he recollects his manifold past lives.  
 
-### Cutūpapātañāṇa
+### Cutūpapātañāna
 
 So evaṁ samāhite citte parisuddhe pariyodāte anangaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte sattānaṁ cutūpapātañāṇāya cittaṁ abhininnāmeti.   
 When his concentrated mind is thus purified, bright, unblemished, rid of imperfection, malleable, wieldy, steady, and attained to imperturbability, he directs it to knowledge of the passing away and reappearance of beings.  
@@ -275,7 +275,7 @@ With the divine eye, which is purified and surpasses the human, he sees beings p
 Iti dibbena cakkhunā visuddhena atikkantamānusakena satte passāmi cavamāne upapajjamāne hīne paṇīte suvaṇṇe dubbaṇṇe sugate duggate yathākammūpage satte pajānāmi.   
 Thus with the divine eye, which is purified and surpasses the human, he sees beings passing away and reappearing, inferior and superior, fair and ugly, fortunate and unfortunate, and he understands how beings pass on according to their actions.  
 
-### Khayañāṇa
+### Khayañāna
 
 So evaṁ samāhite citte parisuddhe pariyodāte anangaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte āsavānaṁ khayañāṇāya cittaṁ abhininnāmeti.   
 When his concentrated mind is thus purified, bright, unblemished, rid of imperfection, malleable, wieldy, steady, and attained to imperturbability, he directs it to knowledge of the destruction of the taints.  

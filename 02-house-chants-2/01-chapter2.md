@@ -1,6 +1,6 @@
 # House Chants 2
 
-## Āṭānāṭiya Parittaṃ 
+## Ātānātiya Parittam
 
 Vipassissa nam’atthu,  
 Cakkhumantassa sirīmato;  
@@ -34,13 +34,13 @@ Mahantaṃ vīta-sāradaṃ.
 Vijjā-caraṇa-sampannaṃ,  
 Buddhaṃ vandāma Gotaman’ti.  
 
-## Aṅguli-māla Parittaṁ 
+## Anguli-māla Parittam
 
 Yato'haṃ bhagini ariyāya jātiyā jāto,   
 nābhijānāmi sañcicca pāṇaṃ jīvitā voropetā,     
 Tena saccena sotthi te hotu sotthi gabbhassa. (x3)  
 
-## Bojjh'aṅga-parittaṃ 
+## Bojjh'anga-parittam
 
 Bojjh’aṅgo sati-saṇkhāto,  
 Dhammānaṃ vicayo tathā;  
@@ -84,7 +84,7 @@ Pattānuppatti-dhammataṃ;
 Etena sacca-vajjena,  
 Sotthi te hotu sabbadā.  
 
-## Abhaya-parittaṃ
+## Abhaya-parittam
 
 Yan-dunnimittaṃ avamaṅgalañ-ca,  
 Yo cāmanāpo sakuṇassa saddo;  
@@ -123,7 +123,7 @@ Paccekānañ-ca yaṃ balaṃ;
 Arahantānañ-ca tejena,  
 Rakkhaṃ bandhāmi sabbaso.  
 
-## Jaya-maṅgala-aṭṭha-gāthā 
+## Jaya-mangala-attha-gāthā 
 
 Bāhuṃ sahassam-abhinimmita-sāvudhan-taṃ,  
 Grīmekhalaṃ udita-ghora-sasena-māraṃ;  
@@ -170,7 +170,7 @@ Yo vācano dina-dine sarate-m-atandī;
 Hitvān’aneka-vividhāni c’upaddavāni,  
 Mokkhaṃ sukhaṃ adhigameyya naro sapañño.  
 
-## Mahā-kāruṇiko... (Jaya-parittaṃ) 
+## Mahā-kāruniko... (Jaya-parittam) 
 
 Mahā-kāruṇiko nātho,  
 Hitāya sabba-pāṇinaṃ;  
