@@ -73,6 +73,8 @@ Idamavoca bhagavā. Attamanā pañcavaggiyā bhikkhū bhagavato bhāsitaṁ abhi
 
 Imasmiñca pana veyyākaraṇasmiṁ bhaññamāne āyasmato koṇḍaññassa virajaṁ vītamalaṁ dhammacakkhuṁ udapādi. "yaṁ kiñci samudayadhammaṁ sabbaṁ taṁ nirodhadhamman"ti.   
 
+## Section 5
+
 Pavattite ca pana bhagavatā dhammacakke bhummā devā saddamanussāvesuṁ:   
 
 "Etaṁ bhagavatā bārāṇasiyaṁ isipatane migadāye anuttaraṁ dhammacakkaṁ pavattitaṁ appaṭivattiyaṁ samaṇena vā brāhmaṇena vā devena vā mārena vā brahmunā vā kenaci vā lokasmin"ti.   
