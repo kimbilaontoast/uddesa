@@ -90,7 +90,7 @@ Paranimmitavasavattīnaṁ devānaṁ saddaṁ sutvā, Brahmakāyikā devā sadd
 "Etaṁ bhagavatā bārāṇasiyaṁ isipatane migadāye anuttaraṁ dhammacakkaṁ pavattitaṁ appaṭivattiyaṁ samaṇena vā brāhmaṇena vā devena vā mārena vā brahmunā vā kenaci vā lokasmin"ti.   
 
 Iti-ha tena khaṇena tena muhuttena, yāva brahmalokā saddo abbhuggacchi.   
-Ayañca dasasahassilokadhātu saṅkampi sampakampi sampavedhi. Appamāṇo ca uḷāro obhāso loke pāturahosi atikkam'eva devānaṁ dev'ānubhāvaṁ.   
+Ayañca dasasahassilokadhātu saṅkampi sampakampi sampavedhi. Appamāṇo ca oḷāro / *uḷāro*/ bhāso loke pāturahosi atikkam'eva devānaṁ dev'ānubhāvaṁ.   
 
 Atha kho bhagavā udānaṁ udānesi: "aññāsi vata bho, koṇḍañño, aññāsi vata bho, koṇḍañño"ti. Iti hidaṁ āyasmato koṇḍaññassa "aññāsikoṇḍañño" tveva nāmaṁ ahosīti.   
 
