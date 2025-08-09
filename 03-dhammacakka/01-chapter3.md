@@ -19,7 +19,7 @@ Ayaṁ kho sā, bhikkhave, majjhimā paṭipadā tathāgatena abhisambuddhā cak
 ### Section 2
 
 Idaṁ kho pana, bhikkhave, dukkhaṁ ariyasaccaṁ:   
-jātipi dukkhā, jarāpi dukkhā, /*byādhipi dukkhā* /, maraṇampi dukkhaṁ, sokaparideva dukkha domanass'upāyāsā pi dukkhā, appiyehi sampayogo dukkho, piyehi vippayogo dukkho, yampicchaṁ na labhati tampi dukkhaṁ - saṅkhittena pañcupādānakkhandhā dukkhā.   
+jātipi dukkhā, jarāpi dukkhā,/ *byādhipi dukkhā* /, maraṇampi dukkhaṁ, sokaparideva dukkha domanass'upāyāsā pi dukkhā, appiyehi sampayogo dukkho, piyehi vippayogo dukkho, yampicchaṁ na labhati tampi dukkhaṁ - saṅkhittena pañcupādānakkhandhā dukkhā.   
 
 Idaṁ kho pana, bhikkhave, dukkhasamudayo/*aṁ* ariyasaccaṁ:   
 yāyaṁ taṇhā ponobbhavikā nandirāgasahagatā tatratatrābhinandinī, seyyathidaṁ - kāmataṇhā, bhavataṇhā, vibhavataṇhā.   
@@ -90,7 +90,7 @@ Paranimmitavasavattīnaṁ devānaṁ saddaṁ sutvā, Brahmakāyikā devā sadd
 "Etaṁ bhagavatā bārāṇasiyaṁ isipatane migadāye anuttaraṁ dhammacakkaṁ pavattitaṁ appaṭivattiyaṁ samaṇena vā brāhmaṇena vā devena vā mārena vā brahmunā vā kenaci vā lokasmin"ti.   
 
 Iti-ha tena khaṇena tena muhuttena, yāva brahmalokā saddo abbhuggacchi.   
-Ayañca dasasahassilokadhātu saṅkampi sampakampi sampavedhi. Appamāṇo ca oḷāro / *uḷāro*/ bhāso loke pāturahosi atikkam'eva devānaṁ dev'ānubhāvaṁ.   
+Ayañca dasasahassilokadhātu saṅkampi sampakampi sampavedhi. Appamāṇo ca uḷāro obhāso loke pāturahosi atikkam'eva devānaṁ dev'ānubhāvaṁ.   
 
 Atha kho bhagavā udānaṁ udānesi: "aññāsi vata bho, koṇḍañño, aññāsi vata bho, koṇḍañño"ti. Iti hidaṁ āyasmato koṇḍaññassa "aññāsikoṇḍañño" tveva nāmaṁ ahosīti.   
 
