@@ -27,28 +27,28 @@ ol.toc li { list-style-type: none; margin: 0; padding: 0; }
 
 /* embed EBGaramond font */
 @font-face {
-	font-family: "EBGaramond";
+	font-family: 'EBGaramond';
 	font-style: bold;
 	font-weight: normal;
-	src:url(fonts/EBGaramond-Bold.tff) format('trutype');
+	src:url(../fonts/EBGaramond-Bold.tff);
 }
 @font-face {
-	font-family: "EBGaramond";
+	font-family: 'EBGaramond';
 	font-style: bolditallic;
 	font-weight: normal;
-	src:url(fonts/EBGaramond-BoldItalic.tff) format('trutype');
+	src:url(../fonts/EBGaramond-BoldItalic.tff);
 }
 @font-face {
-	font-family: "EBGaramond";
+	font-family: 'EBGaramond';
 	font-style: italic;
 	font-weight: normal;
-	src:url(fonts/EBGaramond-Italic.tff) format('trutype');
+	src:url(../fonts/EBGaramond-Italic.tff);
 }
 @font-face {
-	font-family: "EBGaramond";
+	font-family: 'EBGaramond';
 	font-style: regular;
 	font-weight: normal;
-	src:url(fonts/EBGaramond-Regular.tff) format('trutype');
+	src:url(../fonts/EBGaramond-Regular.tff);
 }
 
-body { font-family: "EBGaramond"; }
+body { font-family: 'EBGaramond'; serif; }
