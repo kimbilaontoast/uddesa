@@ -1,6 +1,6 @@
-## English Pātimokkha - May 2025
+# English Pātimokkha - May 2025
 
-### Introduction 
+## Introduction 
 
 Bhante, may I please recite the pātimokkha.
 
@@ -28,7 +28,7 @@ ease.
 
 The introduction is finished.
 
-### Pārajika
+## Pārajika
 
 Now the four pārājika rules come up for recitation.
 
@@ -54,7 +54,7 @@ You are silent, and so I take it you are pure.
 
 The pārājikas are finished.
 
-### Sanghādisesa 
+## Sanghādisesa 
 
 Now the thirteen saṅghādisesa rules come up for recitation.
 
@@ -121,7 +121,7 @@ You are silent, and so I take it you are pure.
 
 The saṅghādisesas are finished.
 
-### Aniyata 
+## Aniyata 
 
 Now the two aniyata rules come up for recitation.
 
@@ -144,7 +144,7 @@ You are silent, and so I take it you are pure.
 
 The aniyatas are finished.
 
-### Nissaggiya Pācittiya
+## Nissaggiya Pācittiya
 
 **1-10**
 
@@ -288,7 +288,7 @@ You are silent, and so I take it you are pure.
 
 The nissaggiya pācittiyas are finished.
 
-### Pācittiya
+## Pācittiya
 
 **1-10**
 
@@ -636,7 +636,7 @@ You are silent, and so I take it you are pure.
 
 The pācittiyas are finished.
 
-### Pātidesanīya 
+## Pātidesanīya 
 
 Now the four pāṭidesanīya rules come up for recitation.
 
@@ -664,7 +664,7 @@ You are silent, and so I take it you are pure.
 
 The pāṭidesanīyas are finished.
 
-### Sekhiya
+## Sekhiya
 
 **1-26**
 
@@ -783,7 +783,7 @@ You are silent, and so I take it you are pure.
 
 The sekhiyas are finished.
 
-### Resolution
+## Resolution
 
 Now the seven principles for settling vinaya issues come up for
 recitation.
@@ -811,7 +811,7 @@ You are silent, and so I take it you are pure.
 
 The seven principles for settling vinaya issues are finished.
 
-### Outro
+## Outro
 
 The introduction has been recited;  
 The four pārājika rules have been recited;  

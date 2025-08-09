@@ -1,6 +1,6 @@
-## Anupubbasikkhā -- Gradual Training
+# Anupubbasikkhā -- Gradual Training
 
-### Tathāgata Arises-- MN 27
+## Tathāgata Arises-- MN 27
 
 Idha tathāgato loke uppajjati arahaṁ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṁ buddho bhagavā.   
 A Buddha appears in the world, accomplished, fully awakened, perfect in true knowledge and conduct, well liberated, knower of worlds, incomparable teacher of those who can be taught, teacher of gods and humans, the awakened one, the master.  
@@ -11,7 +11,7 @@ He realizes with his own insight this world---with its gods, Māras, and divinit
 So dhammaṁ deseti ādikalyāṇaṁ majjhekalyāṇaṁ pariyosānakalyāṇaṁ sātthaṁ sabyañjanaṁ; kevalaparipuṇṇaṁ parisuddhaṁ brahmacariyaṁ pakāseti.   
 He teaches the Dhamma that is good in the beginning, good in the middle, and good in the end, with the right meaning and right phrasing, and he reveals a perfectly complete and pure spiritual life.  
 
-### Dhammam sunāti -- MN 125
+## Dhammam sunāti -- MN 125
 
 Taṁ dhammaṁ suṇāti gahapati vā gahapatiputto vā aññatarasmiṁ vā kule paccājāto.   
 A householder hears that teaching, or a householder's child, or someone reborn in a good family.  
@@ -25,7 +25,7 @@ They gain faith in the Realized One, and reflect:
 So aparena samayena appaṁ vā bhogakkhandhaṁ pahāya mahantaṁ vā bhogakkhandhaṁ pahāya appaṁ vā ñātiparivaṭṭaṁ pahāya mahantaṁ vā ñātiparivaṭṭaṁ pahāya kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajati.   
 On a later occasion, they give away all their wealth, abandoning their circle of relatives and friends, they shave off their hair, put on the orange robe, and go forth from the home life into monastic life.  
 
-### Hirottappa -- MN 39
+## Hirottappa -- MN 39
 
 Samaṇā samaṇāti vo, bhikkhave, jano sañjānāti. Tumhe ca pana 'ke tumhe'ti puṭṭhā samānā 'samaṇāmhā'ti paṭijānātha;   
 Mendicants, people label you as ascetics. And when they ask you what you are, you claim to be ascetics.  
@@ -42,9 +42,9 @@ And what are the things that make one an ascetic and a brahmin?
 'Hirottappena samannāgatā bhavissāmā'ti evañhi vo, bhikkhave, sikkhitabbaṁ.   
 You should train like this: 'We will have conscience and prudence.'  
 
-### Sīla 
+## Sīla 
 
-#### Sīla (1) - MN 53
+### Sīla (1) - MN 53
 
 Kathañca, mahānāma, ariyasāvako sīlasampanno hoti?   
 And how is a noble disciple accomplished in ethics?  
@@ -55,7 +55,7 @@ It's when a noble disciple is ethical, restrained in the monastic code, conducti
 Evaṁ kho, ariyasāvako sīlasampanno hoti.   
 That's how a noble disciple is ethical.  
 
-#### Sīla (2) - MN 39
+### Sīla (2) - MN 39
 
 'Parisuddho no kāyasamācāro bhavissati uttāno vivaṭo na ca chiddavā saṁvuto ca.   
 You should train like this: 'Our bodily behavior will be pure, clear, open, neither inconsistent nor secretive.  
@@ -63,7 +63,7 @@ You should train like this: 'Our bodily behavior will be pure, clear, open, neit
 Tāya ca pana parisuddhakāyasamācāratāya nevattānukkaṁsessāma na paraṁ vambhessāmā'ti evañhi vo, bhikkhave, sikkhitabbaṁ.   
 And we won't glorify ourselves or put others down on account of our pure bodily behavior.'  
 
-#### Sīla (3) - AN 10.176 / MN 27
+### Sīla (3) - AN 10.176 / MN 27
 
 Tividhaṁ kāyena soceyyaṁ hoti; catubbidhaṁ vācāya soceyyaṁ hoti; tividhaṁ manasā soceyyaṁ hoti.   
 Purity is threefold by way of body, fourfold by way of speech, and threefold by way of mind.  
@@ -111,17 +111,17 @@ Sammādiṭṭhiko hoti aviparītadassano: 'atthi dinnaṁ, atthi yiṭṭhaṁ,
 Ime dasa kusalakammapathā.   
 These are the ten ways of doing skillful deeds.  
 
-#### Sīla (4) -- DN 2
+### Sīla (4) -- DN 2
 
 So iminā ariyena sīlakkhandhena samannāgato ajjhattaṁ anavajjasukhaṁ paṭisaṁvedeti.   
 When they follow this noble virtue and contentment, they experience within themselves a delightful bliss, the joy of being blameless.
 
-### Santutthi - MN 27
+## Santutthi - MN 27
 
 So santuṭṭho hoti kāyaparihārikena cīvarena kucchiparihārikena piṇḍapātena. So yena yeneva pakkamati samādāyeva pakkamati. They become content with patched robes to protect their body and with almsfood to maintain their stomach; and wherever they go, they travel taking only these with them. Seyyathāpi nāma pakkhī sakuṇo yena yeneva ḍeti sapattabhārova ḍeti;   
 Just as a bird, wherever it goes, flies with its wings as its only burden; evameva bhikkhu santuṭṭho hoti kāyaparihārikena cīvarena kucchiparihārikena piṇḍapātena. So yena yeneva pakkamati samādāyeva pakkamati. So too they become content with patched robes to protect this body and with almsfood to maintain your stomach; and wherever they go, they travel taking only these with them.  
 
-### Indriyasamvara - MN 27
+## Indriyasamvara - MN 27
 
 So cakkhunā rūpaṁ disvā na nimittaggāhī hoti nānubyañjanaggāhī.   
 When they see an object, they do not let themselves get sucked in by any characteristics or features that generate defilements.  
@@ -162,7 +162,7 @@ Since, if you left the faculty of cognition unrestrained, unskilful states of wa
 So iminā ariyena indriyasaṁvarena samannāgato ajjhattaṁ abyāsekasukhaṁ paṭisaṁvedeti.   
 When they follow this noble restraint of the senses, they experience within themselves an even more delightful bliss, the joy of being unagitated.  
 
-### Bhojane mattaññutā -- MN 53 
+## Bhojane mattaññutā -- MN 53 
 
 Ariyasāvako paṭisaṅkhā yoniso āhāraṁ  
 āhāreti: A noble disciple reflects wisely on the food that they eat:   
@@ -173,7 +173,7 @@ Ariyasāvako paṭisaṅkhā yoniso āhāraṁ
 Iti purāṇañca vedanaṁ paṭihaṅkhāmi, navañca vedanaṁ na uppādessāmi, yātrā ca me bhavissati anavajjatā ca phāsuvihāro cā'ti.  
 In this way, I shall put an end to old discomfort and not give rise to new discomfort, and I will have the means to keep going, blamelessness, and a comfortable abiding.'   
 
-### Jāgariya -- MN 53
+## Jāgariya -- MN 53
 
 Ariyasāvako divasaṁ caṅkamena nisajjāya āvaraṇīyehi dhammehi cittaṁ parisodheti,   
 A noble disciple practices walking and sitting meditation by day, purifying their mind from obstacles.  
@@ -187,7 +187,7 @@ In the middle watch, they lie down in the lion's posture---on the right side, pl
 rattiyā pacchimaṁ yāmaṁ paccuṭṭhāya caṅkamena nisajjāya āvaraṇīyehi dhammehi cittaṁ parisodheti.   
 In the last watch, they get up and continue to practice walking and sitting meditation, purifying their mind from obstacles.  
 
-### Satisampajañña -- MN 27
+## Satisampajañña -- MN 27
 
 So abhikkante paṭikkante sampajānakārī hoti,   
 They act in full comprehension of the purpose when going forward and returning;   
@@ -203,12 +203,12 @@ uccārapassāvakamme sampajānakārī hoti, when urinating and defecating;
 gate ṭhite nisinne sutte jāgarite bhāsite tuṇhībhāve sampajānakārī hoti.   
 when walking, standing, sitting, sleeping, being awake, talking, and keeping silent.  
 
-### Viveka -- MN 27
+## Viveka -- MN 27
 
 So vivittaṁ senāsanaṁ bhajati araññaṁ rukkhamūlaṁ pabbataṁ kandaraṁ giriguhaṁ susānaṁ vanapatthaṁ abbhokāsaṁ palālapuñjaṁ.   
 They frequent a secluded lodging---a wilderness, the root of a tree, a hill, a ravine, a mountain cave, a charnel ground, a forest, the open air, a heap of straw.  
 
-### Nivārana -- MN 27
+## Nivārana -- MN 27
 
 So pacchābhattaṁ piṇḍapātapaṭikkanto nisīdati pallaṅkaṁ ābhujitvā, ujuṁ kāyaṁ paṇidhāya, parimukhaṁ satiṁ upaṭṭhapetvā.   
 After the meal, they return from almsround, sit down cross-legged, set their body straight, and establish mindfulness as a priority.   
@@ -228,7 +228,7 @@ Abandoning restlessness and remorse, they abide unagitated, with a mind inwardly
 Vicikicchaṁ pahāya tiṇṇavicikiccho viharati akathaṅkathī kusalesu dhammesu, vicikicchāya cittaṁ parisodheti.   
 Abandoning doubt, they abide having gone beyond doubt, unperplexed about wholesome states; they purify the mind from doubt.  
 
-### Jhāna -- MN 39
+## Jhāna -- MN 39
 
 So ime pañca nīvaraṇe pahāya cetaso upakkilese paññāya dubbalīkaraṇe,   
 They give up these five hindrances, corruptions of the heart that weaken wisdom.  
@@ -245,9 +245,9 @@ With the fading away of joy, they abide mindful and fully aware, experiencing a 
 Puna caparaṁ, bhikkhave, bhikkhu sukhassa ca pahānā dukkhassa ca pahānā, pubbeva somanassadomanassānaṁ atthaṅgamā, adukkhamasukhaṁ upekkhāsatipārisuddhiṁ catutthaṁ jhānaṁ upasampajja viharati.   
 Having abandoned pleasure and pain (all vedanā from the five senses), and with the disappearance of joy and grief (all vedanā from the sixth sense except for equanimity), they enter upon and abide in the fourth jhāna, which has only neutral mental vedanā remaining---just pure mindfulness with equanimity.  
 
-### Tevijjā -- MN 39
+## Tevijjā -- MN 39
 
-#### Pubbenivāsānussatiñānai
+### Pubbenivāsānussatiñānai
 
 So evaṁ samāhite citte parisuddhe pariyodāte anangaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte pubbenivāsānussatiñāṇāya cittaṁ abhininnāmeti.   
 When his concentrated mind is thus purified, bright, unblemished, rid of imperfection, malleable, wieldy, steady, and attained to imperturbability, he directs it to knowledge of the recollection of past lives.  
@@ -261,7 +261,7 @@ He recollects his manifold past lives, that is -- one birth, two births, three b
 Iti sākāraṁ sauddesaṁ anekavihitaṁ pubbenivāsaṁ anussarati.   
 Thus with their aspects and particulars he recollects his manifold past lives.  
 
-#### Cutūpapātañāna
+### Cutūpapātañāna
 
 So evaṁ samāhite citte parisuddhe pariyodāte anangaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte sattānaṁ cutūpapātañāṇāya cittaṁ abhininnāmeti.   
 When his concentrated mind is thus purified, bright, unblemished, rid of imperfection, malleable, wieldy, steady, and attained to imperturbability, he directs it to knowledge of the passing away and reappearance of beings.  
@@ -275,7 +275,7 @@ With the divine eye, which is purified and surpasses the human, he sees beings p
 Iti dibbena cakkhunā visuddhena atikkantamānusakena satte passāmi cavamāne upapajjamāne hīne paṇīte suvaṇṇe dubbaṇṇe sugate duggate yathākammūpage satte pajānāmi.   
 Thus with the divine eye, which is purified and surpasses the human, he sees beings passing away and reappearing, inferior and superior, fair and ugly, fortunate and unfortunate, and he understands how beings pass on according to their actions.  
 
-#### Khayañāna
+### Khayañāna
 
 So evaṁ samāhite citte parisuddhe pariyodāte anangaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte āsavānaṁ khayañāṇāya cittaṁ abhininnāmeti.   
 When his concentrated mind is thus purified, bright, unblemished, rid of imperfection, malleable, wieldy, steady, and attained to imperturbability, he directs it to knowledge of the destruction of the taints.  

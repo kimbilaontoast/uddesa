@@ -50,4 +50,5 @@ ol.toc li { list-style-type: none; margin: 0; padding: 0; }
 	font-weight: normal;
 	src:url(./fonts/EBGaramond-Regular.tff) format('trutype');
 }
+
 body { font-family: "EBGaramond"; }
