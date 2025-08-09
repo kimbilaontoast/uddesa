@@ -1,6 +1,6 @@
-# House Chants 1
+## House Chants 1
 
-## Nama-kāra-siddhi-gāthā 
+### Nama-kāra-siddhi-gāthā 
 
 Yo cakkhumā moha-malāpakaṭṭho,  
 Sāmaṃ va Buddho sugato vimutto;  
@@ -32,33 +32,28 @@ Buddhānubuddhaṃ sama-sīla-diṭṭhiṃ;
 Tan-tejasā te jaya-siddhi hotu,  
 Sabb’antarāyā ca vināsamentu.  
 
-## Namo-kāra-atthaka 
+### Namo-kāra-atthaka 
 
 Namo arahato sammā-  
 Sambuddhassa mahesino;  
-
 Namo uttama-dhammassa,  
 Svākkhātass’eva ten’idha.  
-
 Namo mahā-saṅghassāpi,  
 Visuddha-sīla-diṭṭhino;  
 
 Namo omāty-āraddhassa,  
 Ratanattayassa sādhukaṃ.  
-
 Namo omakātītassa,  
 Tassa vatthuttayassa-pi;  
 
 Namo-kārappabhāvena,  
 Vigacchantu upaddavā.  
-
 Namo-kārānubhāvena  
 Suvatthi hotu sabbadā;  
-
 Namo-kārassa tejena,  
 Vidhimhi homi, tejavā.  
 
-## Mangala-sutta 
+### Mangala-sutta 
 
 Asevanā ca bālānaṃ,  
 Paṇḍitānañ ca sevanā;  
@@ -115,7 +110,7 @@ Sabbattha-m-aparājitā;
 Sabbattha sotthiṃ gacchanti,  
 Tan-tesaṃ maṅgalam-uttaman ti.  
 
-## Cha Ratana-Paritta-Gāthā 
+### Cha Ratana-Paritta-Gāthā 
 
 Yaṅ kiñci vittaṃ idha vā huraṃ vā,  
 Saggesu vā yaṃ ratanaṃ paṇītaṃ;  
@@ -156,7 +151,7 @@ Nibbanti dhīrā yathā’yam padīpo;
 Idam pi Saṅghe ratanaṃ paṇītaṃ,  
 Etena saccena suvatthi hotu.  
 
-## Karanīya-metta-sutta
+### Karanīya-metta-sutta
 
 Karaṇīya-mattha-kusalena,  
 Yan-taṃ santaṃ padaṃ abhisamecca;  
@@ -208,7 +203,7 @@ Sīlavā dassanena sampanno;
 Kāmesu vineyya gedhaṃ,  
 Na hi jātu gabbha-seyyaṃ puna-r-etī’ti.  
 
-## Khandha-parittam
+### Khandha-parittam
 
 Virūpakkhehi me mettaṃ,  
 Mettaṃ Erāpathehi me;  
@@ -239,7 +234,7 @@ Paṭikkamantu bhūtāni.
 So’haṃ namo Bhagavato,  
 Namo sattannaṃ sammā-sambuddhānaṃ.  
 
-## Buddha Dhamma Sangha-gunā 
+### Buddha Dhamma Sangha-gunā 
 
 Iti pi so Bhagavā arahaṃ sammā-sambuddho,  
 Vijjā-caraṇa-sampanno, sugato loka-vidū,  
@@ -260,7 +255,7 @@ Esa Bhagavato sāvaka-saṅgho,
 Āhuneyyo pāhuneyyo dakkhiṇeyyo añjali-karaṇīyo  
 Anuttaraṃ puññakkhettaṃ lokassā’ti.  
 
-## N'atthi me saranam aññam
+### N'atthi me saranam aññam
 
 Natthi me saraṇaṃ aññaṃ,  
 Buddho me saraṇaṃ varaṃ  
