@@ -1,0 +1,54 @@
+# https://pandoc.org/MANUAL.html#epub-metadata
+
+title:
+  - type: main
+    text: Uddesa
+  - type: subtitle
+    text: Recitations in Dhammavinaya
+  # - type: edition
+  #   text: 
+  - type: short
+    text: Uddesa
+creator: # https://loc.gov/marc/relators/relaterm.html
+  - role: aut # Author
+    text: Bhante Kimbila
+  # - role: trl # Translator
+  #   text: Bhikkhu Bodhi 
+  # - role: trl # Translator
+  #   text: Ajahn Brahm
+  - role: edt # Editor
+    text: Bhante Kimbila  
+  # - role: ccp # Conceptor
+  #   text: 
+contributor:
+  - role: edt # Editor
+    text: Bhante Kimbila
+  - role: edt # Editor
+  - role: bkd # Book designer
+    text: Bhante Kimbila (EPUB)
+subject: # https://ns.editeur.org/thema/en/QRF
+  - authority: Thema
+    term: QRFF
+    text: 'Buddhism: sacred texts and revered writings'
+  - authority: Thema
+    term: QRFB1
+    text: Theravada Buddhism
+lang: en
+format: application/epub+zip
+type: Text # DCMI URI: http://purl.org/dc/dcmitype/Text
+cover-image: images/cover.png
+css:
+  - styles/pandoc-defaults.css
+  - styles/custom.css
+# identifier:
+#   - scheme: ISBN-13
+#     text: xxx-x-xxx-xxxxx-x
+source: # http://purl.org/dc/elements/1.1/source
+  - scheme: ISBN-13
+    text: 978-9552403644
+publisher: Toast Publications
+rights: >
+  Creative Commons Zero - CC0
+ibooks:
+  version: 2.2.0
+date: '2025-09-06'

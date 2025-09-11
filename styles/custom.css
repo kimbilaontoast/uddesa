@@ -1,0 +1,127 @@
+/* Prioritise the e-reader's own optimized serif font.
+   Examples:
+   - Kindle → Bookerly
+   - Kobo → Malabar
+   - Apple Books → Athelas
+   - Google Play Books → Literata
+   - Nook → Georgia or Malabar
+   And fallback to Georgia (Pro) and system serif if all else fails. */
+body {
+  font-family:
+    'Bookerly', 'Literata', 'Athelas', 'Malabar', 'Georgia Pro', Georgia, serif;
+  line-height: 1.5; /* More readable, and allows space for the .sutta-ref border */
+}
+
+/* Mimic table of contents headings in WOB. */
+#toc > ol.toc > li {
+  margin-top: 0.75rem;
+}
+
+#toc > ol.toc > li > a {
+  font-weight: bold;
+}
+
+#toc a {
+  text-decoration: none;
+}
+
+/* Mimic chapter headings in WOB. */
+h1:not(#toc-title):not(.main):not(.unnumbered) {
+  /* text-transform: uppercase; */
+  margin: 0 0 4rem 0;
+}
+
+/* Pandoc requires headings to include the `epub:type` attribute,
+   so when these pages don't require a heading, I've left it empty.
+   eg. copyright-page and titlepage */
+h1:empty {
+  display: none;
+}
+
+.sutta-ref {
+  /*font-family: sans-serif;*/
+  border: 1px solid rgba(0, 0, 0, 0.4);
+  border-radius: 0.25rem;
+  padding: 0.1rem 0.2rem;
+  /*margin: 0 0.2rem 0.2rem 0;*/
+}
+
+@media (prefers-color-scheme: dark) {
+  .sutta-ref {
+    border-color: rgba(255, 255, 255, 0.4);
+  }
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.font-small-caps {
+  font-variant: small-caps;
+}
+
+
+/* For the custom grouped-list styled like 1a 1b 1c 2a 2b 2c etc */
+.alpha-numeric-list ol,
+.alpha-numeric-list ol ol {
+  list-style: none;
+  padding-left: 0;
+  margin-left: 0;
+}
+
+.alpha-numeric-list ol > li {
+  counter-increment: main;
+}
+
+.alpha-numeric-list ol > li > ol {
+  counter-reset: sub;
+  padding-left: 0.5rem;
+}
+
+.alpha-numeric-list ol > li > ol > li {
+  counter-increment: sub;
+  position: relative;
+  padding-left: 1.8rem; /* space for number+letter */
+}
+
+.alpha-numeric-list ol > li > ol > li::before {
+  content: counter(main) counter(sub, lower-alpha) '. ';
+  position: absolute;
+  left: 0;
+}
+
+.alpha-numeric-list ol > li > ol > li:nth-child(3n) {
+  margin-bottom: 1rem;
+}
+
+/* Definition lists, on Abbreviations and Glossary pages */
+dl.abbreviations {
+  display: grid;
+  grid-gap: 4px 16px;
+  grid-template-columns: max-content;
+}
+
+dl.abbreviations dd {
+  margin: 0;
+  margin-bottom: 1rem;
+  grid-column-start: 2;
+}
+
+dt {
+  font-weight: bold;
+}
+
+dd {
+  margin-top: 0.5rem;
+  margin-bottom: 1rem;
+  margin-left: 1rem;
+}
+
+dd p:first-of-type {
+  margin-top: 0;
+}
+
