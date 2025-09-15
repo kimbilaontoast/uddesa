@@ -216,4 +216,4 @@ Tassa evaṁ jānato evaṁ passato kāmāsavāpi cittaṁ vimuccati, bhavāsav�
 
 Vimuttasmiṁ vimuttamiti ñāṇaṁ hoti:
 
-'khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthattāyā'ti pajānāti. They understand:
+'khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthattāyā'ti pajānāti. T
