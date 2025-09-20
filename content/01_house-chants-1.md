@@ -112,26 +112,26 @@ Tan-tesaṃ maṅgalam-uttaman ti.
 
 ## Cha Ratana-Paritta-Gāthā 
 
-Yānīdha bhūtāni samāgatāni,
-Bhummāni vā yāni va antalikkhe.
-Sabb’eva bhūtā sumanā bhavantu,
+Yānīdha bhūtāni samāgatāni,  
+Bhummāni vā yāni va antalikkhe.  
+Sabb’eva bhūtā sumanā bhavantu,  
 Atho pi sakkacca suṇantu bhāsitaṃ.
 
-Tasmā hi bhūtā nisāmetha sabbe,
-Mettaṃ karotha mānusiyā pajāya.
-Divā ca ratto ca haranti ye baliṃ,
+Tasmā hi bhūtā nisāmetha sabbe,  
+Mettaṃ karotha mānusiyā pajāya.  
+Divā ca ratto ca haranti ye baliṃ,  
 Tasmā hi ne rakkhatha appamattā.
 
-Yaṅ kiñci vittaṃ idha vā huraṃ vā,  
-Saggesu vā yaṃ ratanaṃ paṇītaṃ;  
-Na no samaṃ atthi Tathāgatena,  
-Idam pi Buddhe ratanaṃ paṇītaṃ;  
-Etena saccena suvatthi hotu.    
+Yaṅ kiñci vittaṃ idha vā huraṃ vā,    
+Saggesu vā yaṃ ratanaṃ paṇītaṃ;   
+Na no samaṃ atthi Tathāgatena,   
+Idam pi Buddhe ratanaṃ paṇītaṃ;   
+Etena saccena suvatthi hotu. 
 
-Khayaṃ virāgaṃ amataṃ paṇītaṃ,  
-Yad-ajjhagā Sakya-munī samāhito;  
-Na tena dhammena sam’atthi kiñci,  
-Idam pi Dhamme ratanaṃ paṇītaṃ;  
+Khayaṃ virāgaṃ amataṃ paṇītaṃ,    
+Yad-ajjhagā Sakya-munī samāhito;    
+Na tena dhammena sam’atthi kiñci,    
+Idam pi Dhamme ratanaṃ paṇītaṃ;    
 Etena saccena suvatthi hotu.    
 
 Yam buddha-seṭṭho parivaṇṇayī suciṃ,  
@@ -154,46 +154,46 @@ Laddhā mudhā nibbutiṃ bhuñjamānā;
 Idam pi Saṅghe ratanaṃ paṇītaṃ,  
 Etena saccena suvatthi hotu.   
 
-Yath’inda-khīlo paṭhaviṃ sito siyā,
-Catubbhi vātebhi asampakampiyo.
-Tathūpamaṃ sappurisaṃ vadāmi,
-Yo ariya-saccāni avecca passati.
-Idam-pi Saṅghe ratanaṃ paṇītaṃ,
+Yath’inda-khīlo paṭhaviṃ sito siyā,  
+Catubbhi vātebhi asampakampiyo.  
+Tathūpamaṃ sappurisaṃ vadāmi,  
+Yo ariya-saccāni avecca passati.  
+Idam-pi Saṅghe ratanaṃ paṇītaṃ,  
 Etena saccena suvatthi hotu.
 
-Ye ariya-saccāni vibhāvayanti,
-Gambhīra-paññena sudesitāni.
-Kiñ-cāpi te honti bhusappamattā,
-Na te bhavaṃ aṭṭhamam-ādiyanti.
-Idam-pi Saṅghe ratanaṃ paṇītaṃ,
+Ye ariya-saccāni vibhāvayanti,  
+Gambhīra-paññena sudesitāni.  
+Kiñ-cāpi te honti bhusappamattā,  
+Na te bhavaṃ aṭṭhamam-ādiyanti.  
+Idam-pi Saṅghe ratanaṃ paṇītaṃ,  
 Etena saccena suvatthi hotu.
 
-Sahā v’assa dassana-sampadāya,
-Tay’assu dhammā jahitā bhavanti.
-Sakkāya-diṭṭhi vicikicchitañ-ca,
-Sīlabbataṃ vā pi yad-atthi kiñci.
-Catūh’apāyehi ca vippamutto,
-Cha cābhiṭhānāni abhabbo kātuṃ.
-Idam-pi Saṅghe ratanaṃ paṇītaṃ,
+Sahā v’assa dassana-sampadāya,  
+Tay’assu dhammā jahitā bhavanti.  
+Sakkāya-diṭṭhi vicikicchitañ-ca,  
+Sīlabbataṃ vā pi yad-atthi kiñci.  
+Catūh’apāyehi ca vippamutto,  
+Cha cābhiṭhānāni abhabbo kātuṃ.  
+Idam-pi Saṅghe ratanaṃ paṇītaṃ,  
 Etena saccena suvatthi hotu.
 
-Kiñ-cāpi so kammaṃ karoti pāpakaṃ,
-Kāyena vācā uda cetasā vā.
-Abhabbo so tassa paṭicchadāya,
-Abhabbatā diṭṭha-padassa vuttā.
-Idam-pi Saṅghe ratanaṃ paṇītaṃ,
+Kiñ-cāpi so kammaṃ karoti pāpakaṃ,  
+Kāyena vācā uda cetasā vā.  
+Abhabbo so tassa paṭicchadāya,  
+Abhabbatā diṭṭha-padassa vuttā.  
+Idam-pi Saṅghe ratanaṃ paṇītaṃ,  
+Etena saccena suvatthi hotu.  
+
+Vanappagumbe yathā phussi-t-agge,  
+Gimhāna-māse paṭhamasmiṃ gimhe.  
+Tathūpamaṃ dhamma-varaṃ adesayi,  
+Nibbāna-gāmiṃ paramaṃ hitāya.  
+Idam-pi Buddhe ratanaṃ paṇītaṃ,  
 Etena saccena suvatthi hotu.
 
-Vanappagumbe yathā phussi-t-agge,
-Gimhāna-māse paṭhamasmiṃ gimhe.
-Tathūpamaṃ dhamma-varaṃ adesayi,
-Nibbāna-gāmiṃ paramaṃ hitāya.
-Idam-pi Buddhe ratanaṃ paṇītaṃ,
-Etena saccena suvatthi hotu.
-
-Varo varañ-ñū vara-do var’āharo,
-Anuttaro dhamma-varaṃ adesayi.
-Idam-pi Buddhe ratanaṃ paṇītaṃ,
+Varo varañ-ñū vara-do var’āharo,  
+Anuttaro dhamma-varaṃ adesayi.  
+Idam-pi Buddhe ratanaṃ paṇītaṃ,  
 Etena saccena suvatthi hotu.
 
 Khīṇaṃ purāṇaṃ navaṃ n’atthi sambhavaṃ,  
@@ -203,19 +203,19 @@ Nibbanti dhīrā yathā’yam padīpo;
 Idam pi Saṅghe ratanaṃ paṇītaṃ,  
 Etena saccena suvatthi hotu.    
 
-Yānīdha bhūtāni samāgatāni,
-Bhummāni vā yāni va antalikkhe.
-Tathāgataṃ deva-manussa-pūjitaṃ,
+Yānīdha bhūtāni samāgatāni,  
+Bhummāni vā yāni va antalikkhe.  
+Tathāgataṃ deva-manussa-pūjitaṃ,  
 Buddhaṃ namassāma suvatthi hotu.
 
-Yānīdha bhūtāni samāgatāni,
-Bhummāni vā yāni va antalikkhe.
-Tathāgataṃ deva-manussa-pūjitaṃ,
+Yānīdha bhūtāni samāgatāni,  
+Bhummāni vā yāni va antalikkhe.  
+Tathāgataṃ deva-manussa-pūjitaṃ,  
 Dhammaṃ namassāma suvatthi hotu.
 
-Yānīdha bhūtāni samāgatāni,
-Bhummāni vā yāni va antalikkhe.
-Tathāgataṃ deva-manussa-pūjitaṃ,
+Yānīdha bhūtāni samāgatāni,  
+Bhummāni vā yāni va antalikkhe.  
+Tathāgataṃ deva-manussa-pūjitaṃ,  
 Saṅghaṃ namassāma suvatthi hotū-ti.
 
 ## Karanīya-metta-sutta
