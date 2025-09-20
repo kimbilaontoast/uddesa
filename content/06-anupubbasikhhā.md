@@ -186,7 +186,7 @@ Puna caparaṁ, bhikkhave, bhikkhu sukhassa ca pahānā dukkhassa ca pahānā, p
 
 ## Tevijjā -- MN 39
 
-### Pubbenivāsānussatiñānai
+### Pubbenivāsānussatiñāna
 
 So evaṁ samāhite citte parisuddhe pariyodāte anangaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte pubbenivāsānussatiñāṇāya cittaṁ abhininnāmeti.
 
@@ -216,4 +216,4 @@ Tassa evaṁ jānato evaṁ passato kāmāsavāpi cittaṁ vimuccati, bhavāsav�
 
 Vimuttasmiṁ vimuttamiti ñāṇaṁ hoti:
 
-'khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthattāyā'ti pajānāti. T
+'khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthattāyā'ti pajānāti.
