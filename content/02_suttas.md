@@ -1,7 +1,8 @@
+# Suttas
 
-# Dhammacakkappavattanasutta
+## Dhammacakkappavattanasutta
 
-## Part 1
+### Part 1
 
 (Evam-me sutaṁ) Ekaṁ samayaṁ bhagavā bārāṇasiyaṁ viharati isipatane migadāye. Tatra kho bhagavā pañcavaggiye bhikkhū āmantesi:   
 
@@ -17,7 +18,7 @@ Ayameva ariyo aṭṭhaṅgiko maggo, seyyathidaṁ - sammādiṭṭhi sammāsa�
 
 Ayaṁ kho sā, bhikkhave, majjhimā paṭipadā tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati.   
 
-## Part 2
+### Part 2
 
 Idaṁ kho pana, bhikkhave, dukkhaṁ ariyasaccaṁ:<br /> 
 jātipi dukkhā, jarāpi dukkhā,/ *byādhipi dukkhā* /, maraṇampi dukkhaṁ, sokaparideva dukkha domanass'upāyāsā pi dukkhā, appiyehi sampayogo dukkho, piyehi vippayogo dukkho, yampicchaṁ na labhati tampi dukkhaṁ - saṅkhittena pañcupādānakkhandhā dukkhā.   
@@ -31,7 +32,7 @@ yo tassāyeva taṇhāya asesavirāganirodho cāgo paṭinissaggo mutti anālayo
 Idaṁ kho pana, bhikkhave, dukkhanirodhagāminī paṭipadā ariyasaccaṁ:<br /> 
 ayameva ariyo aṭṭhaṅgiko maggo, seyyathidaṁ - sammādiṭṭhi sammāsaṅkappo sammāvācā sammākammanto sammāājīvo sammāvāyāmo sammāsati sammāsamādhi.
 
-## Part 3   
+### Part 3   
 
 ('Idaṁ dukkhaṁ) ariyasaccan'ti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṁ udapādi, ñāṇaṁ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi.   
 
@@ -63,7 +64,7 @@ ayameva ariyo aṭṭhaṅgiko maggo, seyyathidaṁ - sammādiṭṭhi sammāsa�
 
 'Taṁ kho panidaṁ dukkhanirodhagāminī paṭipadā ariyasaccaṁ **bhāvitan**'ti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṁ udapādi, ñāṇaṁ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi.   
 
-## Part 4
+### Part 4
 
 (Yāvakīvañca me, bhikkhave), imesu catūsu ariyasaccesu evan-ti-parivaṭṭaṁ dvādasākāraṁ yathābhūtaṁ ñāṇadassanaṁ na suvisuddhaṁ ahosi, neva tāvāhaṁ, bhikkhave, sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya 'anuttaraṁ sammāsambodhiṁ abhisambuddho paccaññāsiṁ.     
 
@@ -75,7 +76,7 @@ Idamavoca bhagavā. Attamanā pañcavaggiyā bhikkhū bhagavato bhāsitaṁ abhi
 
 Imasmiñca pana veyyākaraṇasmiṁ bhaññamāne āyasmato koṇḍaññassa virajaṁ vītamalaṁ dhammacakkhuṁ udapādi. "yaṁ kiñci samudayadhammaṁ sabbaṁ taṁ nirodhadhamman"ti.   
 
-## Part 5
+### Part 5
 
 (Pavattite ca pana bhagavatā) dhammacakke bhummā devā saddamanussāvesuṁ:   
 
