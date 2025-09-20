@@ -11,13 +11,13 @@ title:
     text: Uddesa
 creator: # https://loc.gov/marc/relators/relaterm.html
   - role: aut # Author
-    text: Bhante Kimbila
+    text: Kimbila-Bhante
   # - role: trl # Translator
   #   text: Bhikkhu Bodhi 
   # - role: trl # Translator
   #   text: Ajahn Brahm
   - role: edt # Editor
-    text: Bhante Kimbila  
+    text: Kimbila-Bhante
   # - role: ccp # Conceptor
   #   text: 
 contributor:
