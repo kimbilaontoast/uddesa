@@ -619,7 +619,7 @@ Sanghaṁ namāmi.
 
 #### Pubba-bhāga-nama-kāra-pātho
 
-(*Handa mayaṁ Buddhassa Bhagavato pubba-bhāga-nama-kāraṁ karomase.*)
+*(Handa mayaṁ Buddhassa Bhagavato pubba-bhāga-nama-kāraṁ karomase.)*
 
 Namo tassa Bhagavato Arahato sammā-sambuddhassa (x3)  
 
@@ -726,19 +726,19 @@ Esā me sacca-pāramī-ti.
 
 ### So Aṭṭha-laddho (Blessing for the newly ordained)
 
-(*singular masculine*)  
+*(singular masculine)* 
 So attha-laddho sukhito,  
 Viruḷho Buddha-sāsane;  
 Arogo sukhito hohi,  
 Saha sabbehi ñātibhi.  
 
-(*singular feminine*)  
+*(singular feminine)*
 Sā attha-laddhā sukhitā,  
 Viruḷhā Buddha-sāsane;  
 Arogā sukhitā hohi,  
 Saha sabbehi ñātibhi.  
 
-(*plural masculine / feminine*)  
+*(plural masculine / feminine)*
 Te attha-laddhā sukhitā,  
 Viruḷhā Buddha-sāsane;  
 Arogā sukhitā hotha,  
