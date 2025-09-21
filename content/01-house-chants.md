@@ -34,7 +34,7 @@ Buddhānubuddhaṃ sama-sīla-diṭṭhiṃ;
 Tan-tejasā te jaya-siddhi hotu,  
 Sabb’antarāyā ca vināsamentu.  
 
-### Namo-kāra-atthaka 
+### Namo-kāra-aṭṭhaka
 
 Namo arahato sammā-  
 Sambuddhassa mahesino;  
@@ -55,7 +55,7 @@ Suvatthi hotu sabbadā;
 Namo-kārassa tejena,  
 Vidhimhi homi, tejavā.    
 
-### Mangala-sutta 
+### Maṅgala-sutta 
 
 Asevanā ca bālānaṃ,  
 Paṇḍitānañ ca sevanā;  
@@ -220,7 +220,7 @@ Bhummāni vā yāni va antalikkhe.
 Tathāgataṃ deva-manussa-pūjitaṃ,  
 Saṅghaṃ namassāma suvatthi hotū-ti.
 
-### Karanīya-metta-sutta
+### Karaṇīya-metta-sutta
 
 Karaṇīya-mattha-kusalena,  
 Yan-taṃ santaṃ padaṃ abhisamecca;  
@@ -272,7 +272,7 @@ Sīlavā dassanena sampanno;
 Kāmesu vineyya gedhaṃ,  
 Na hi jātu gabbha-seyyaṃ puna-r-etī’ti.    
 
-### Khandha-parittam
+### Khandha-parittaṁ
 
 Virūpakkhehi me mettaṃ,  
 Mettaṃ Erāpathehi me;  
@@ -303,7 +303,7 @@ Paṭikkamantu bhūtāni.
 So’haṃ namo Bhagavato,  
 Namo sattannaṃ sammā-sambuddhānaṃ.    
 
-### Buddha Dhamma Sangha-gunā 
+### Buddha Dhamma Saṅgha-guṇā 
 
 Iti pi so Bhagavā arahaṃ sammā-sambuddho,  
 Vijjā-caraṇa-sampanno, sugato loka-vidū,  
@@ -343,7 +343,7 @@ Sotthi te (me) hotu sabbadā.
 
 ## House Chants 2
 
-### Ātānātiya Parittam
+### Āṭānāṭiya Parittaṁ
 
 Vipassissa nam’atthu,  
 Cakkhumantassa sirīmato;  
@@ -377,13 +377,13 @@ Mahantaṃ vīta-sāradaṃ.
 Vijjā-caraṇa-sampannaṃ,  
 Buddhaṃ vandāma Gotaman’ti.    
 
-### Anguli-māla Parittam
+### Anguli-māla Parittaṁ
 
 Yato'haṃ bhagini ariyāya jātiyā jāto,  
 nābhijānāmi sañcicca pāṇaṃ jīvitā voropetā,  
 Tena saccena sotthi te hotu sotthi gabbhassa. (x3)    
 
-### Bojjh'anga-parittam
+### Bojjh'aṅga-parittaṁ
 
 Bojjh’aṅgo sati-saṇkhāto,  
 Dhammānaṃ vicayo tathā;  
@@ -427,7 +427,7 @@ Pattānuppatti-dhammataṃ;
 Etena sacca-vajjena,  
 Sotthi te hotu sabbadā.    
 
-### Abhaya-parittam
+### Abhaya-parittaṁ
 
 Yan-dunnimittaṃ avamaṅgalañ-ca,  
 Yo cāmanāpo sakuṇassa saddo;  
@@ -466,7 +466,7 @@ Paccekānañ-ca yaṃ balaṃ;
 Arahantānañ-ca tejena,  
 Rakkhaṃ bandhāmi sabbaso.    
 
-### Jaya-mangala-attha-gāthā 
+### Jaya-maṅgala-aṭṭha-gāthā 
 
 Bāhuṃ sahassam-abhinimmita-sāvudhan-taṃ  
 Grīmekhalaṃ udita-ghora-sasena-māraṃ;  
@@ -513,7 +513,7 @@ Yo vācano dina-dine sarate-m-atandī;
 Hitvān’aneka-vividhāni c’upaddavāni,  
 Mokkhaṃ sukhaṃ adhigameyya naro sapañño.    
 
-### Mahā-kāruniko... (Jaya-parittam) 
+### Mahā-kāruniko... (Jaya-parittaṁ) 
 
 Mahā-kāruṇiko nātho,  
 Hitāya sabba-pāṇinaṃ;  
@@ -655,7 +655,6 @@ Anuttaraṃ puññakkhettaṃ lokassā-ti.
 Tam ahaṁ Sanghaṁ abhipūjayāmi  
 Tam ahaṁ Sanghaṁ sirasa namami
 
-
 #### Culla-maṅgala-cakka-vāḷa (Special Blessing)
 
 Sabba-buddh’ānubhāvena   
@@ -697,7 +696,7 @@ Bhogaṃ vuḍḍhī ca yasavā;
 Sata-vassā ca āyū ca,  
 Jīva-siddhī bhavantu te.  
 
-### Vaṭṭaka-parittaṃ (Quail's Protection)
+### Vaṭṭaka-parittaṁ (Quail's Protection)
 
 Atthi loke sīla-guṇo,  
 Sabba-santāpa-vajjito;  
@@ -725,7 +724,7 @@ Udakaṃ patvā yathā sikhī;
 Saccena me samo n’atthi,  
 Esā me sacca-pāramī-ti.
 
-### So Attha-laddho (Blessing for the newly ordained)
+### So Aṭṭha-laddho (Blessing for the newly ordained)
 
 (*singular masculine*)  
 So attha-laddho sukhito,  
