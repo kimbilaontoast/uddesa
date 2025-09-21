@@ -1,5 +1,35 @@
 # Pātimokkha
 
+## Confession
+
+### Junior confessing to senior
+
+Namo tassa Bhagavato arahato sammā-sambuddhassa  x 3
+
+Ȧhaṁ bhante sambahulā nānā-vatthukāyo thullaccayāyo apattiyo āpanno ta patidesemi  
+Ȧhaṁ bhante sambahulā nānā-vatthukāyo pācittiyāyo apattiyo āpanno ta patidesemi  
+Ȧhaṁ bhante sambahulā nānā-vatthukāyo dukkatāyo apattiyo āpanno ta patidesemi  
+Ȧhaṁ bhante sambahulā dubbhāsitāyo apattiyo āpanno ta patidesemi  
+*I venerable sir, having many times fallen into grave offences of different bases, these I confess.*  
+Passasi āvuso? - *Do you see friend?*  
+Ama bhante passāmi - *Yes, venerable sir, I see.*  
+Ayatiṁ āvuso saṁvareyyāsi - *In future friend, you should be restrained.*  
+Sādhu suṭṭhu bhante saṁvarissāmi x 3 - *It is well indeed venerable sir, I shall be restrained.*  
+
+### Senior confessing to junior
+
+Namo tassa Bhagavato arahato sammā-sambuddhassa  x 3
+
+Ȧhaṁ āvuso sambahulā nānā-vatthukāyo thullaccayāyo apattiyo āpanno ta patidesemi  
+Ȧhaṁ āvuso sambahulā nānā-vatthukāyo pācittiyāyo apattiyo āpanno ta patidesemi  
+Ȧhaṁ āvuso sambahulā nānā-vatthukāyo dukkatāyo apattiyo āpanno ta patidesemi  
+Ȧhaṁ āvuso sambahulā dubbhāsitāyo apattiyo āpanno ta patidesemi  
+*I friend, having many times fallen into grave offences of different bases, these I confess.*  
+Passatha bhante? - *Do you see venerable sir?*  
+Ama āvuso passāmi - *Yes, friend, I see.*  
+Ayatiṁ bhante saṁvareyyātha - *In future venerable sir, you should be restrained.*  
+Sādhu suṭṭhu āvuso saṁvarissāmi x 3 - *It is well indeed venerable sir, I shall be restrained.*  
+
 ## Chants
 
 ### Pubba-bhāga-nama-kāra-pātho
