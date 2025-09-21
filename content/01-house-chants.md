@@ -544,9 +544,9 @@ Paṇidhi te padakkhiṇā.
 Padakkhiṇāni katvāna,    
 Labhant’atthe padakkhiṇe.    
 
-# House Chants 3
+## House Chants 3
 
-## Anumodanā 
+### Anumodanā 
 
 Yathā vāri-vahā pūrā,  
 Paripūrenti sāgaraṃ;  
@@ -591,7 +591,7 @@ Rakkhantu sabba-devatā
 Sabba-saṅgh’ānubhāvena  
 Sadā sotthī bhavantu te.  
 
-## Dhammmaloka Centre Chants 
+### Dhammmaloka Centre Chants 
 
 Yo so Bhagavā arahaṁ sammā-sambuddho  
 Svākkhāto yena Bhagavatā dhammo  
@@ -617,14 +617,14 @@ Dhammaṁ namassāmi.
 (Supatipanno) Bhagavato sāvaka-sangho,  
 Sanghaṁ namāmi.  
 
-### Pubba-bhāga-nama-kāra-pātho
+#### Pubba-bhāga-nama-kāra-pātho
 
 (Handa mayaṁ Buddhassa Bhagavato pubba-bhāga-nama-kāraṁ karomase.*)
 
 Namo tassa Bhagavato Arahato sammā-sambuddhassa (x3)  
 
 
-### Buddha Dhamma Saṅgha-guṇā (Dhaj’agga Paritta)
+#### Buddha Dhamma Saṅgha-guṇā (Dhaj’agga Paritta)
 
 Iti pi so Bhagavā arahaṃ sammā-sambuddho,  
 Vijjā-caraṇa-sampanno, sugato loka-vidū,  
@@ -656,7 +656,7 @@ Tam ahaṁ Sanghaṁ abhipūjayāmi
 Tam ahaṁ Sanghaṁ sirasa namami
 
 
-## Culla-maṅgala-cakka-vāḷa (Special Blessing)
+#### Culla-maṅgala-cakka-vāḷa (Special Blessing)
 
 Sabba-buddh’ānubhāvena   
 sabba-dhamm’ānubhāvena  
@@ -697,7 +697,7 @@ Bhogaṃ vuḍḍhī ca yasavā;
 Sata-vassā ca āyū ca,  
 Jīva-siddhī bhavantu te.  
 
-## Vaṭṭaka-parittaṃ (Quail's Protection)
+### Vaṭṭaka-parittaṃ (Quail's Protection)
 
 Atthi loke sīla-guṇo,  
 Sabba-santāpa-vajjito;  
@@ -725,7 +725,7 @@ Udakaṃ patvā yathā sikhī;
 Saccena me samo n’atthi,  
 Esā me sacca-pāramī-ti.
 
-## So Attha-laddho (Blessing for the newly ordained)
+### So Attha-laddho (Blessing for the newly ordained)
 
 (*singular masculine*)  
 So attha-laddho sukhito,  
@@ -745,16 +745,16 @@ Viruḷhā Buddha-sāsane;
 Arogā sukhitā hotha,  
 Saha sabbehi ñātibhi.  
 
-## Funeral Chants
+### Funeral Chants
 
-### Paṃsu-kūla
+#### Paṃsu-kūla
 
 Aciraṃ vat’ayaṃ kāyo,  
 Paṭhaviṃ adhisessati.  
 Chuḍḍho apeta-viññāṇo,  
 Niratthaṃ va kaliṅgaraṃ.  
 
-### For the deceased
+#### For the deceased
 
 Aniccā vata saṅkhārā  
 Uppāda-vaya-dhammino;  
@@ -766,7 +766,7 @@ Mariṃsu ca marissare
 Tath’evāhaṃ marissāmi  
 N’atthi me ettha saṃsayo.  
 
-## Kāla-dāna-sutta-gāthā (Kathina ceremony blessing)
+### Kāla-dāna-sutta-gāthā (Kathina ceremony blessing)
 
 Kāle dadanti sapaññā, vadaññū vīta-maccharā;  
 Kālena dinnaṃ ariyesu, uju-bhūtesu tādisu;  
