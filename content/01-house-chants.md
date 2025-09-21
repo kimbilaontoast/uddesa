@@ -544,3 +544,237 @@ Paṇidhi te padakkhiṇā.
 Padakkhiṇāni katvāna,    
 Labhant’atthe padakkhiṇe.    
 
+# House Chants 3
+
+## Anumodanā 
+
+Yathā vāri-vahā pūrā,  
+Paripūrenti sāgaraṃ;  
+Evam-eva ito dinnaṃ,  
+Petānaṃ upakappati  
+
+Icchitaṃ patthitaṃ tumhaṃ,  
+Khippam-eva samijjhatu;  
+Sabbe pūrentu saṅkappā,  
+Cando paṇṇa-raso yathā;  
+Maṇi joti-raso yathā.  
+
+(/ Sabba-roga-vinimutto,  
+Sabba-santāpa-vajjito;  
+Sabba-veram-atikkanto,  
+Nibbuto ca tuvam-bhava;)  
+
+Sabb’ītiyo vivajjantu,  
+Sabba-rogo vinassatu;  
+Mā te bhavatv-antarāyo,  
+Sukhī dīgh’āyuko bhava;  
+
+Abhivādana-sīlissa,  
+Niccaṃ vuḍḍhāpacāyino;  
+Cattāro dhammā vaḍḍhanti,  
+Āyu vaṇṇo sukhaṃ balaṃ.  
+
+*Ratanattay’ānubhāv’ādi-gāthā*  
+
+Bhavatu sabba-maṅgalaṃ   
+Rakkhantu sabba-devatā  
+Sabba-buddh’ānubhāvena  
+Sadā sotthī bhavantu te.  
+
+Bhavatu sabba-maṅgalaṃ  
+Rakkhantu sabba-devatā  
+Sabba-dhamm’ānubhāvena  
+Sadā sotthī bhavantu te.  
+
+Bhavatu sabba-maṅgalaṃ  
+Rakkhantu sabba-devatā  
+Sabba-saṅgh’ānubhāvena  
+Sadā sotthī bhavantu te.  
+
+## Dhammmaloka Centre Chants 
+
+Yo so Bhagavā arahaṁ sammā-sambuddho  
+Svākkhāto yena Bhagavatā dhammo  
+Supatipanno yassa Bhagavato sāvaka-sangho  
+
+Tam-mayaṁ Bhagavantaṁ sadhammaṁ sasanghaṁ  
+Imehi sakkārehi yathā’rahaṁ āropitehi abhipūjayāma  
+
+Sādhu no Bhante Bhagavā sucira-parinibbuto pi  
+Pacchimā-janatā’nukampa-mānasā  
+
+Ime sakkāre duggata-pannākāra-bhūte patigganhātu  
+Amhākaṁ dīgha-rattaṁ hitāya sukhāya.   
+
+*Ratanattaya Vandanā*
+
+(Arahaṁ) sammā-sambuddho Bhagavā  
+Buddhaṁ Bhagavantaṁ abhivādemi.  
+
+(Svākkhāto) Bhagavatā dhammo,  
+Dhammaṁ namassāmi.  
+
+(Supatipanno) Bhagavato sāvaka-sangho,  
+Sanghaṁ namāmi.  
+
+### Pubba-bhāga-nama-kāra-pātho
+
+(Handa mayaṁ Buddhassa Bhagavato pubba-bhāga-nama-kāraṁ karomase.*)
+
+Namo tassa Bhagavato Arahato sammā-sambuddhassa (x3)  
+
+
+### Buddha Dhamma Saṅgha-guṇā (Dhaj’agga Paritta)
+
+Iti pi so Bhagavā arahaṃ sammā-sambuddho,  
+Vijjā-caraṇa-sampanno, sugato loka-vidū,  
+Anuttaro purisa-damma-sārathi satthā devamanussānaṃ  
+Buddho Bhagavā-ti.  
+
+Tam ahaṁ Bhagavantaṁ abhipūjayāmi  
+Tam ahaṁ Bhagavantaṁ sirasa namami  
+
+Svākkhāto Bhagavatā Dhammo,  
+Sandiṭṭhiko akāliko ehi-passiko,  
+Opanayiko paccattaṃ veditabbo viññūhī-ti.  
+
+Tam ahaṁ Dhammaṁ abhipūjayāmi  
+Tam ahaṁ Dhammaṁ sirasa namami  
+
+Supaṭipanno Bhagavato sāvaka-saṅgho,  
+Uju-paṭipanno Bhagavato sāvaka-saṅgho,  
+Ñāya-paṭipanno Bhagavato sāvaka-saṅgho,  
+Sāmīci-paṭipanno Bhagavato sāvaka-saṅgho,
+
+Yad-idaṃ cattāri purisa-yugāni aṭṭha  
+purisa-puggalā;  
+Esa Bhagavato sāvaka-saṅgho,  
+Āhuneyyo pāhuneyyo dakkhiṇeyyo añjalikaraṇīyo,  
+Anuttaraṃ puññakkhettaṃ lokassā-ti.  
+
+Tam ahaṁ Sanghaṁ abhipūjayāmi  
+Tam ahaṁ Sanghaṁ sirasa namami
+
+
+## Culla-maṅgala-cakka-vāḷa (Special Blessing)
+
+Sabba-buddh’ānubhāvena   
+sabba-dhamm’ānubhāvena  
+sabba-saṅgh’ānubhāvena  
+
+Buddharatanaṃ dhamma-ratanaṃ saṅgha-ratanaṃ  
+Tiṇṇaṃ ratanānaṃ ānubhāvena  
+Catur-āsīti-sahassa-dhammakkhandh’ānubhāvena  
+Piṭakattay’ānubhāvena  
+Jina-sāvak’ānubhāvena  
+
+Sabbe te rogā  
+Sabbe te bhayā  
+Sabbe te antarāyā  
+Sabbe te upaddavā  
+Sabbe te dunnimittā  
+Sabbe te avamaṅgalā vinassantu  
+
+āyu-vaḍḍhako/ā  
+dhana-vaḍḍhako/ā  
+siri-vaḍḍhako/ā  
+yasa-vaḍḍhako/ā  
+bala-vaḍḍhako/ā  
+vaṇṇa-vaḍḍhako/ā  
+sukha-vaḍḍhako/ā  
+hotu sabbadā.  
+
+Dukkha-roga-bhayā verā,  
+Sokā sattu c’upaddavā;  
+Anekā antarāyā pi,  
+Vinassantu ca tejasā;  
+
+Jaya-siddhi dhanaṃ lābhaṃ,  
+Sotthi bhāgyaṃ sukhaṃ balaṃ;  
+Siri āyu ca vaṇṇo ca,  
+Bhogaṃ vuḍḍhī ca yasavā;  
+
+Sata-vassā ca āyū ca,  
+Jīva-siddhī bhavantu te.  
+
+## Vaṭṭaka-parittaṃ (Quail's Protection)
+
+Atthi loke sīla-guṇo,  
+Sabba-santāpa-vajjito;  
+Sabba-veram-atikkanto,  
+Nibbuto ca tuvam-bhava;  
+Saccaṃ soceyy’anuddayā;  
+Tena saccena kāhāmi,  
+Sacca-kiriyam-anuttaraṃ.  
+
+Āvajjitvā dhamma-balaṃ,  
+Saritvā pubbake jine;  
+Sacca-balam-avassāya,  
+Sacca-kiriyam-akās’ahaṃ.  
+
+Santi pakkhā apattanā,  
+Santi pādā avañcanā;  
+Mātā pitā ca nikkhantā,  
+Jāta-veda paṭikkama.  
+
+Saha sacce kate mayhaṃ,  
+Mahā-pajjalito sikhī;  
+Vajjesi soḷasa karīsāni,    
+Udakaṃ patvā yathā sikhī;  
+
+Saccena me samo n’atthi,  
+Esā me sacca-pāramī-ti.
+
+## So Attha-laddho (Blessing for the newly ordained)
+
+(*singular masculine*)  
+So attha-laddho sukhito,  
+Viruḷho Buddha-sāsane;  
+Arogo sukhito hohi,  
+Saha sabbehi ñātibhi.  
+
+(*singular feminine*)  
+Sā attha-laddhā sukhitā,  
+Viruḷhā Buddha-sāsane;  
+Arogā sukhitā hohi,  
+Saha sabbehi ñātibhi.  
+
+(*plural masculine / feminine*)  
+Te attha-laddhā sukhitā,  
+Viruḷhā Buddha-sāsane;  
+Arogā sukhitā hotha,  
+Saha sabbehi ñātibhi.  
+
+## Funeral Chants
+
+### Paṃsu-kūla
+
+Aciraṃ vat’ayaṃ kāyo,  
+Paṭhaviṃ adhisessati.  
+Chuḍḍho apeta-viññāṇo,  
+Niratthaṃ va kaliṅgaraṃ.  
+
+### For the deceased
+
+Aniccā vata saṅkhārā  
+Uppāda-vaya-dhammino;  
+Uppajjitvā nirujjhanti,  
+Tesaṃ vūpasamo sukho.  
+
+Sabbe sattā maranti ca   
+Mariṃsu ca marissare  
+Tath’evāhaṃ marissāmi  
+N’atthi me ettha saṃsayo.  
+
+## Kāla-dāna-sutta-gāthā (Kathina ceremony blessing)
+
+Kāle dadanti sapaññā, vadaññū vīta-maccharā;  
+Kālena dinnaṃ ariyesu, uju-bhūtesu tādisu;  
+Vippasanna-manā tassa, vipulā hoti dakkhiṇā.  
+
+Ye tattha anumodanti, veyyāvaccaṃ karonti vā;   
+Na tena dakkhiṇā onā, te pi puññassa bhāgino.   
+Tasmā dade appaṭivāna-citto, yattha dinnaṃ mahapphalaṃ;  
+
+Puññāni para-lokasmiṃ,  
+Patiṭṭhā honti pāṇinan-ti.
