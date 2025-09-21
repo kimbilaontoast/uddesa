@@ -619,7 +619,7 @@ Sanghaṁ namāmi.
 
 #### Pubba-bhāga-nama-kāra-pātho
 
-(Handa mayaṁ Buddhassa Bhagavato pubba-bhāga-nama-kāraṁ karomase.*)
+(*Handa mayaṁ Buddhassa Bhagavato pubba-bhāga-nama-kāraṁ karomase.*)
 
 Namo tassa Bhagavato Arahato sammā-sambuddhassa (x3)  
 
