@@ -8,7 +8,7 @@ So imaṁ lokaṁ sadevakaṁ samārakaṁ sabrahmakaṁ sassamaṇabrāhmaṇi�
 
 So dhammaṁ deseti ādikalyāṇaṁ majjhekalyāṇaṁ pariyosānakalyāṇaṁ sātthaṁ sabyañjanaṁ; kevalaparipuṇṇaṁ parisuddhaṁ brahmacariyaṁ pakāseti.
 
-## Dhammam sunāti -- MN 125
+## Dhammaṁ sunāti -- MN 125
 
 Taṁ dhammaṁ suṇāti gahapati vā gahapatiputto vā aññatarasmiṁ vā kule paccājāto.
 
@@ -97,7 +97,7 @@ abbhamattaṁva khāyati.
 
 So santuṭṭho hoti kāyaparihārikena cīvarena kucchiparihārikena piṇḍapātena. So yena yeneva pakkamati samādāyeva pakkamati. Seyyathāpi nāma pakkhī sakuṇo yena yeneva ḍeti sapattabhārova ḍeti; evameva bhikkhu santuṭṭho hoti kāyaparihārikena cīvarena kucchiparihārikena piṇḍapātena. So yena yeneva pakkamati samādāyeva pakkamati. 
 
-## Indriyasamvara - MN 27
+## Indriyasaṁvara - MN 27
 
 So cakkhunā rūpaṁ disvā na nimittaggāhī hoti nānubyañjanaggāhī.
 
@@ -186,7 +186,7 @@ Puna caparaṁ, bhikkhave, bhikkhu sukhassa ca pahānā dukkhassa ca pahānā, p
 
 ## Tevijjā -- MN 39
 
-### Pubbenivāsānussatiñāna
+### Pubbenivāsānussatiñāṇa
 
 So evaṁ samāhite citte parisuddhe pariyodāte anangaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte pubbenivāsānussatiñāṇāya cittaṁ abhininnāmeti.
 
@@ -196,7 +196,7 @@ So anekavihitaṁ pubbenivāsaṁ anussarati, seyyathidaṁ -- ekampi jātiṁ d
 
 Iti sākāraṁ sauddesaṁ anekavihitaṁ pubbenivāsaṁ anussarati.
 
-### Cutūpapātañāna
+### Cutūpapātañāṇa
 
 So evaṁ samāhite citte parisuddhe pariyodāte anangaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte sattānaṁ cutūpapātañāṇāya cittaṁ abhininnāmeti.
 
@@ -206,7 +206,7 @@ So dibbena cakkhunā visuddhena atikkantamānusakena satte passāmi cavamāne up
 
 Iti dibbena cakkhunā visuddhena atikkantamānusakena satte passāmi cavamāne upapajjamāne hīne paṇīte suvaṇṇe dubbaṇṇe sugate duggate yathākammūpage satte pajānāmi.
 
-### Khayañāna
+### Khayañāṇa
 
 So evaṁ samāhite citte parisuddhe pariyodāte anangaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte āsavānaṁ khayañāṇāya cittaṁ abhininnāmeti.
 
