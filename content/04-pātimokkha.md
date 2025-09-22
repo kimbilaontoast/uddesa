@@ -1,6 +1,164 @@
-# English Pātimokkha - May 2025
+# Pātimokkha
 
-## Introduction 
+## Chants
+
+### Pubba-bhāga-nama-kāra-pātho
+
+(*Handa mayaṁ Buddhassa Bhagavato pubbabhāga-nama-kāraṁ karomase.*)
+
+Namo tassa Bhagavato arahato sammā-sambuddhassa  
+Namo tassa Bhagavato arahato sammā-sambuddhassa  
+Namo tassa Bhagavato arahato sammā-sambuddhassa  
+
+*Homage to the Master, the Noble and Awakened One.*
+
+### Sacca-kiriyā-gāthā
+
+(*Handa mayaṁ sacca-kiriyā-gāthāyo bhanāmase.*)
+
+Natthi me saraṇaṃ aññaṃ,  
+Buddho me saraṇaṃ varaṃ   
+Etena sacca-vajjena,  
+Sotthi me hotu sabbadā.    
+
+Natthi me saraṇaṃ aññaṃ,  
+Dhammo me saraṇaṃ varaṃ    
+Etena sacca-vajjena,  
+Sotthi me hotu sabbadā.    
+
+Natthi me saraṇaṃ aññaṃ,  
+Saṅgho me saraṇaṃ varaṃ   
+Etena sacca-vajjena,  
+Sotthi me hotu sabbadā.    
+
+*No other refuge do I have,  
+The Buddha is supreme for me;  
+By the power of these words of truth,  
+May I be well and always safe.*  
+
+*No other refuge do I have,  
+The Dhamma is supreme for me;  
+By the power of these words of truth,  
+May I be well and always safe.*  
+
+*No other refuge do I have,  
+The Sangha is supreme for me;  
+By the power of these words of truth,  
+May I be well and always safe.*  
+
+### Sīl’uddesa-pāṭho Uposath’āvasāne Sajjhāyitabbo
+
+Bhāsitam idaṃ tena Bhagavatā jānatā passatā  
+arahatā sammā-sambuddhena,
+
+Sampanna-sīlā bhikkhave viharatha  
+sampanna-pāṭimokkhā,
+
+Pāṭimokkha-saṃvara-saṃvutā viharatha  
+ācāra-gocara-sampannā,
+
+Aṇu-mattesu vajjesu bhaya-dassāvī  
+samādāya sikkhatha sikkhāpadesū-ti.
+
+Tasmā-tih’amhehi sikkhitabbaṃ,  
+Sampanna-sīlā viharissāma sampannapāṭimokkhā,
+
+Pāṭimokkha-saṃvara-saṃvutā viharissāma  
+ācāra-gocara-sampannā,
+
+Aṇu-mattesu vajjesu bhaya-dassāvī  
+samādāya sikkhissāma sikkhāpadesū-ti,
+
+Evañ hi no sikkhitabbaṃ.  
+
+*The Noble, Worthy One,  
+the One who knows and sees,  
+He who is Awakened,  
+this is what he said:  
+Monks, you should be moral,  
+keep the pātimokkha,  
+Let the pātimokkha  
+restrain you as it should.  
+Do possess good conduct  
+and keep good company,  
+Seeing that there's danger   
+in every slightest fault.  
+Take the rules of training  
+and train yourselves therin.*  
+
+*Since this was said by him,  
+we should practice thus:  
+We will have good morals,  
+keep the pātimokkha,  
+Let the pātimokkha  
+restrain us as it should.  
+We will have good conduct  
+and keep good company,  
+Seeing that there's danger  
+in every slightest fault.  
+We undertake the rules  
+and train ourselves therein.*  
+
+*This the is the way  
+that we should train ourselves.*
+
+### Tāyana-gāthā
+
+(*Handa mayaṁ tāyana-gāthāyo bhanāmase.*)
+
+Chinda sotaṃ parakkamma  
+Kāme panūda brāhmaṇa  
+Nappahāya muni kāme  
+N’ekattam-upapajjati  
+
+Kayirā ce kayirāth’enaṃ  
+Daḷham-enaṃ parakkame  
+Sithilo hi paribbājo  
+Bhiyyo ākirate rajaṃ  
+
+Akataṃ dukkaṭaṃ seyyo  
+Pacchā tappati dukkaṭaṃ  
+Katañ-ca sukataṃ seyyo  
+Yaṃ katvā nānutappati  
+
+Kuso yathā duggahito  
+Hattham-evānukantati  
+Sāmaññaṃ dupparāmaṭṭhaṃ  
+Nirayāyūpakaḍḍhati
+
+Yaṅ-kiñci sithilaṃ kammaṃ  
+Saṅkiliṭṭhañ-ca yaṃ vataṃ  
+Saṅkassaraṃ brahma-cariyaṃ  
+Na taṃ hoti mahapphalan-ti.  
+
+*Srive, wise one, then cut off the stream,  
+Give up craving for worldly things;  
+If sense desire if not cut off,  
+One-pointedness is out of reach.*
+
+*With vigour he should strive indeed  
+To do the deeds that should be done;  
+Renunciants who are too slack  
+Stir up the dirst and scatter dust.*  
+
+*Do not do and evil act,  
+For afterwards must come remorse.  
+Good, by contrast, is to be done;  
+It always leaves the conscience clear.*  
+
+*Just like grass when wrongly held  
+Will cut the hand without a doubt,  
+The life of monks whn wrongly lived  
+Will drag one down to dwell in hell.*  
+
+*Actions that are slackly done,  
+Any precepts that are defiled -   
+A monk who lives a life suspect,  
+Will never taste the noble fruit.*  
+
+## English Pātimokkha
+
+### Introduction 
 
 Bhante, may I please recite the pātimokkha.
 
@@ -20,7 +178,7 @@ If you remember an offence but do not say so before the third announcement, you 
 
 The introduction is finished.
 
-## Pārajika
+### Pārajika
 
 Now the four pārājika rules come up for recitation.
 
@@ -41,7 +199,7 @@ You are silent, and so I take it you are pure.
 
 The pārājikas are finished.
 
-## Sanghādisesa 
+### Sanghādisesa 
 
 Now the thirteen saṅghādisesa rules come up for recitation.
 
@@ -80,7 +238,7 @@ You are silent, and so I take it you are pure.
 
 The saṅghādisesas are finished.
 
-## Aniyata 
+### Aniyata 
 
 Now the two aniyata rules come up for recitation.
 
@@ -97,7 +255,7 @@ You are silent, and so I take it you are pure.
 
 The aniyatas are finished.
 
-## Nissaggiya Pācittiya
+### Nissaggiya Pācittiya
 
 **1-10**
 
@@ -182,7 +340,7 @@ You are silent, and so I take it you are pure.
 
 The nissaggiya pācittiyas are finished.
 
-## Pācittiya
+### Pācittiya
 
 **1-10**
 
@@ -416,7 +574,7 @@ You are silent, and so I take it you are pure.
 
 The pācittiyas are finished.
 
-## Pātidesanīya 
+### Pātidesanīya 
 
 Now the four pāṭidesanīya rules come up for recitation.
 
@@ -437,7 +595,7 @@ You are silent, and so I take it you are pure.
 
 The pāṭidesanīyas are finished.
 
-## Sekhiya
+### Sekhiya
 
 **1-26**
 
@@ -542,7 +700,7 @@ You are silent, and so I take it you are pure.
 
 The sekhiyas are finished.
 
-## Resolution
+### Resolution
 
 Now the seven principles for settling vinaya issues come up for recitation.
 
@@ -569,7 +727,7 @@ You are silent, and so I take it you are pure.
 
 The seven principles for settling vinaya issues are finished.
 
-## Outro
+### Outro
 
 The introduction has been recited;  
 The four pārājika rules have been recited;  
