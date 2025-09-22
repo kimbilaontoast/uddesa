@@ -50,22 +50,17 @@ May I be well and always safe.*
 
 Bhāsitam idaṃ tena Bhagavatā jānatā passatā  
 arahatā sammā-sambuddhena,
-
 Sampanna-sīlā bhikkhave viharatha  
 sampanna-pāṭimokkhā,
-
 Pāṭimokkha-saṃvara-saṃvutā viharatha  
 ācāra-gocara-sampannā,
-
 Aṇu-mattesu vajjesu bhaya-dassāvī  
 samādāya sikkhatha sikkhāpadesū-ti.
 
 Tasmā-tih’amhehi sikkhitabbaṃ,  
 Sampanna-sīlā viharissāma sampannapāṭimokkhā,
-
 Pāṭimokkha-saṃvara-saṃvutā viharissāma  
 ācāra-gocara-sampannā,
-
 Aṇu-mattesu vajjesu bhaya-dassāvī  
 samādāya sikkhissāma sikkhāpadesū-ti,
 
